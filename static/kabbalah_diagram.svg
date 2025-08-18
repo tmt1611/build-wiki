@@ -1,0 +1,73 @@
+<svg viewBox="0 0 500 750" xmlns="http://www.w3.org/2000/svg">
+<rect x="0" y="0" width="500" height="750" fill="#222222" />
+<g id="paths">
+<line x1="250" y1="50" x2="150" y2="150" stroke="#666" stroke-width="3" />
+<text transform="translate(180.0, 90.0) rotate(-56)" font-family="sans-serif" font-size="10" fill="#AAA" text-anchor="middle">The Fool</text>
+<line x1="250" y1="50" x2="350" y2="150" stroke="#666" stroke-width="3" />
+<text transform="translate(320.0, 90.0) rotate(56)" font-family="sans-serif" font-size="10" fill="#AAA" text-anchor="middle">The Magician</text>
+<line x1="250" y1="50" x2="250" y2="400" stroke="#666" stroke-width="3" />
+<text transform="translate(260.0, 105.0) rotate(0)" font-family="sans-serif" font-size="10" fill="#AAA" text-anchor="middle">High Priestess</text>
+<line x1="150" y1="150" x2="350" y2="150" stroke="#666" stroke-width="3" />
+<text transform="translate(250.0, 140.0) rotate(0)" font-family="sans-serif" font-size="10" fill="#AAA" text-anchor="middle">The Empress</text>
+<line x1="150" y1="150" x2="150" y2="300" stroke="#666" stroke-width="3" />
+<text transform="translate(160.0, 175.0) rotate(0)" font-family="sans-serif" font-size="10" fill="#AAA" text-anchor="middle">The Hierophant</text>
+<line x1="150" y1="150" x2="250" y2="400" stroke="#666" stroke-width="3" />
+<text transform="translate(180.0, 245.0) rotate(-56)" font-family="sans-serif" font-size="10" fill="#AAA" text-anchor="middle">The Emperor</text>
+<line x1="350" y1="150" x2="350" y2="300" stroke="#666" stroke-width="3" />
+<text transform="translate(360.0, 175.0) rotate(0)" font-family="sans-serif" font-size="10" fill="#AAA" text-anchor="middle">The Chariot</text>
+<line x1="350" y1="150" x2="250" y2="400" stroke="#666" stroke-width="3" />
+<text transform="translate(320.0, 245.0) rotate(56)" font-family="sans-serif" font-size="10" fill="#AAA" text-anchor="middle">The Lovers</text>
+<line x1="150" y1="300" x2="350" y2="300" stroke="#666" stroke-width="3" />
+<text transform="translate(250.0, 290.0) rotate(0)" font-family="sans-serif" font-size="10" fill="#AAA" text-anchor="middle">Strength</text>
+<line x1="150" y1="300" x2="250" y2="400" stroke="#666" stroke-width="3" />
+<text transform="translate(180.0, 320.0) rotate(-26)" font-family="sans-serif" font-size="10" fill="#AAA" text-anchor="middle">The Hermit</text>
+<line x1="150" y1="300" x2="150" y2="500" stroke="#666" stroke-width="3" />
+<text transform="translate(160.0, 325.0) rotate(0)" font-family="sans-serif" font-size="10" fill="#AAA" text-anchor="middle">Wheel of Fortune</text>
+<line x1="350" y1="300" x2="250" y2="400" stroke="#666" stroke-width="3" />
+<text transform="translate(320.0, 320.0) rotate(26)" font-family="sans-serif" font-size="10" fill="#AAA" text-anchor="middle">Justice</text>
+<line x1="350" y1="300" x2="350" y2="500" stroke="#666" stroke-width="3" />
+<text transform="translate(360.0, 325.0) rotate(0)" font-family="sans-serif" font-size="10" fill="#AAA" text-anchor="middle">The Hanged Man</text>
+<line x1="250" y1="400" x2="150" y2="500" stroke="#666" stroke-width="3" />
+<text transform="translate(180.0, 420.0) rotate(-26)" font-family="sans-serif" font-size="10" fill="#AAA" text-anchor="middle">Death</text>
+<line x1="250" y1="400" x2="350" y2="500" stroke="#666" stroke-width="3" />
+<text transform="translate(320.0, 420.0) rotate(26)" font-family="sans-serif" font-size="10" fill="#AAA" text-anchor="middle">The Devil</text>
+<line x1="250" y1="400" x2="250" y2="600" stroke="#666" stroke-width="3" />
+<text transform="translate(260.0, 450.0) rotate(0)" font-family="sans-serif" font-size="10" fill="#AAA" text-anchor="middle">Temperance</text>
+<line x1="150" y1="500" x2="350" y2="500" stroke="#666" stroke-width="3" />
+<text transform="translate(250.0, 490.0) rotate(0)" font-family="sans-serif" font-size="10" fill="#AAA" text-anchor="middle">The Tower</text>
+<line x1="150" y1="500" x2="250" y2="600" stroke="#666" stroke-width="3" />
+<text transform="translate(180.0, 520.0) rotate(-26)" font-family="sans-serif" font-size="10" fill="#AAA" text-anchor="middle">The Star</text>
+<line x1="150" y1="500" x2="250" y2="700" stroke="#666" stroke-width="3" />
+<text transform="translate(170.0, 600.0) rotate(35)" font-family="sans-serif" font-size="10" fill="#AAA" text-anchor="middle">The Moon</text>
+<line x1="350" y1="500" x2="250" y2="600" stroke="#666" stroke-width="3" />
+<text transform="translate(320.0, 520.0) rotate(26)" font-family="sans-serif" font-size="10" fill="#AAA" text-anchor="middle">The Sun</text>
+<line x1="350" y1="500" x2="250" y2="700" stroke="#666" stroke-width="3" />
+<text transform="translate(330.0, 600.0) rotate(-35)" font-family="sans-serif" font-size="10" fill="#AAA" text-anchor="middle">Judgement</text>
+<line x1="250" y1="600" x2="250" y2="700" stroke="#666" stroke-width="3" />
+<text transform="translate(260.0, 640.0) rotate(0)" font-family="sans-serif" font-size="10" fill="#AAA" text-anchor="middle">The World</text>
+</g>
+<g id="sefirot">
+<circle cx="250" cy="50" r="25" fill="#FFFFFF" stroke="#AAA" stroke-width="1"/>
+<text x="250" y="50" dy="5" font-family="sans-serif" font-size="14" fill="#000000" text-anchor="middle" style="pointer-events: none;">Keter</text>
+<circle cx="150" cy="150" r="25" fill="#C0C0C0" stroke="#AAA" stroke-width="1"/>
+<text x="150" y="150" dy="5" font-family="sans-serif" font-size="14" fill="#000000" text-anchor="middle" style="pointer-events: none;">Chokmah</text>
+<circle cx="350" cy="150" r="25" fill="#202020" stroke="#AAA" stroke-width="1"/>
+<text x="350" y="150" dy="5" font-family="sans-serif" font-size="14" fill="#FFFFFF" text-anchor="middle" style="pointer-events: none;">Binah</text>
+<circle cx="250" cy="225" r="20" fill="none" stroke="#888" stroke-dasharray="3 3" stroke-width="2"/>
+<text x="250" y="225" dy="5" font-family="sans-serif" font-size="12" fill="#AAA" text-anchor="middle" style="pointer-events: none;">Daat</text>
+<circle cx="150" cy="300" r="25" fill="#FFD700" stroke="#AAA" stroke-width="1"/>
+<text x="150" y="300" dy="5" font-family="sans-serif" font-size="14" fill="#000000" text-anchor="middle" style="pointer-events: none;">Chesed</text>
+<circle cx="350" cy="300" r="25" fill="#DC143C" stroke="#AAA" stroke-width="1"/>
+<text x="350" y="300" dy="5" font-family="sans-serif" font-size="14" fill="#000000" text-anchor="middle" style="pointer-events: none;">Gevurah</text>
+<circle cx="250" cy="400" r="25" fill="#FFDF00" stroke="#AAA" stroke-width="1"/>
+<text x="250" y="400" dy="5" font-family="sans-serif" font-size="14" fill="#000000" text-anchor="middle" style="pointer-events: none;">Tiferet</text>
+<circle cx="150" cy="500" r="25" fill="#CD7F32" stroke="#AAA" stroke-width="1"/>
+<text x="150" y="500" dy="5" font-family="sans-serif" font-size="14" fill="#000000" text-anchor="middle" style="pointer-events: none;">Netzach</text>
+<circle cx="350" cy="500" r="25" fill="#FFA500" stroke="#AAA" stroke-width="1"/>
+<text x="350" y="500" dy="5" font-family="sans-serif" font-size="14" fill="#000000" text-anchor="middle" style="pointer-events: none;">Hod</text>
+<circle cx="250" cy="600" r="25" fill="#8A2BE2" stroke="#AAA" stroke-width="1"/>
+<text x="250" y="600" dy="5" font-family="sans-serif" font-size="14" fill="#000000" text-anchor="middle" style="pointer-events: none;">Yesod</text>
+<circle cx="250" cy="700" r="25" fill="#8B4513" stroke="#AAA" stroke-width="1"/>
+<text x="250" y="700" dy="5" font-family="sans-serif" font-size="14" fill="#000000" text-anchor="middle" style="pointer-events: none;">Malkuth</text>
+</g>
+</svg>

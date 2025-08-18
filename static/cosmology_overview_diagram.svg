@@ -1,0 +1,101 @@
+<svg viewBox="0 0 500 1600" xmlns="http://www.w3.org/2000/svg">
+<rect x="0" y="0" width="500" height="1600" fill="#f7fafc" />
+<g id="sefirot-tree">
+<g id="sefirot-paths">
+<line x1="250" y1="50" x2="150" y2="150" stroke="#a0aec0" stroke-width="3" />
+<line x1="250" y1="50" x2="350" y2="150" stroke="#a0aec0" stroke-width="3" />
+<line x1="250" y1="50" x2="250" y2="400" stroke="#a0aec0" stroke-width="3" />
+<line x1="150" y1="150" x2="350" y2="150" stroke="#a0aec0" stroke-width="3" />
+<line x1="150" y1="150" x2="150" y2="300" stroke="#a0aec0" stroke-width="3" />
+<line x1="150" y1="150" x2="250" y2="400" stroke="#a0aec0" stroke-width="3" />
+<line x1="350" y1="150" x2="350" y2="300" stroke="#a0aec0" stroke-width="3" />
+<line x1="350" y1="150" x2="250" y2="400" stroke="#a0aec0" stroke-width="3" />
+<line x1="150" y1="300" x2="350" y2="300" stroke="#a0aec0" stroke-width="3" />
+<line x1="150" y1="300" x2="250" y2="400" stroke="#a0aec0" stroke-width="3" />
+<line x1="150" y1="300" x2="150" y2="500" stroke="#a0aec0" stroke-width="3" />
+<line x1="350" y1="300" x2="250" y2="400" stroke="#a0aec0" stroke-width="3" />
+<line x1="350" y1="300" x2="350" y2="500" stroke="#a0aec0" stroke-width="3" />
+<line x1="250" y1="400" x2="150" y2="500" stroke="#a0aec0" stroke-width="3" />
+<line x1="250" y1="400" x2="350" y2="500" stroke="#a0aec0" stroke-width="3" />
+<line x1="250" y1="400" x2="250" y2="600" stroke="#a0aec0" stroke-width="3" />
+<line x1="150" y1="500" x2="350" y2="500" stroke="#a0aec0" stroke-width="3" />
+<line x1="150" y1="500" x2="250" y2="600" stroke="#a0aec0" stroke-width="3" />
+<line x1="350" y1="500" x2="250" y2="600" stroke="#a0aec0" stroke-width="3" />
+<line x1="250" y1="600" x2="250" y2="700" stroke="#a0aec0" stroke-width="3" />
+</g>
+<g id="sefirot-nodes">
+<circle cx="250" cy="225" r="20" fill="none" stroke="#a0aec0" stroke-dasharray="3 3" stroke-width="2"/>
+<text x="250" y="225" dy="5" font-family="sans-serif" font-size="12" fill="#4a5568" text-anchor="middle">Da'at</text>
+<circle cx="250" cy="50" r="25" fill="#FFFFFF" stroke="#a0aec0" stroke-width="1"/>
+<text x="250" y="50" dy="5" font-family="sans-serif" font-size="14" fill="#000000" text-anchor="middle">Keter</text>
+<circle cx="150" cy="150" r="25" fill="#C0C0C0" stroke="#a0aec0" stroke-width="1"/>
+<text x="150" y="150" dy="5" font-family="sans-serif" font-size="14" fill="#000000" text-anchor="middle">Chokmah</text>
+<circle cx="350" cy="150" r="25" fill="#202020" stroke="#a0aec0" stroke-width="1"/>
+<text x="350" y="150" dy="5" font-family="sans-serif" font-size="14" fill="#FFFFFF" text-anchor="middle">Binah</text>
+<circle cx="150" cy="300" r="25" fill="#FFD700" stroke="#a0aec0" stroke-width="1"/>
+<text x="150" y="300" dy="5" font-family="sans-serif" font-size="14" fill="#000000" text-anchor="middle">Chesed</text>
+<circle cx="350" cy="300" r="25" fill="#DC143C" stroke="#a0aec0" stroke-width="1"/>
+<text x="350" y="300" dy="5" font-family="sans-serif" font-size="14" fill="#000000" text-anchor="middle">Gevurah</text>
+<circle cx="250" cy="400" r="25" fill="#FFDF00" stroke="#a0aec0" stroke-width="1"/>
+<text x="250" y="400" dy="5" font-family="sans-serif" font-size="14" fill="#000000" text-anchor="middle">Tiferet</text>
+<circle cx="150" cy="500" r="25" fill="#CD7F32" stroke="#a0aec0" stroke-width="1"/>
+<text x="150" y="500" dy="5" font-family="sans-serif" font-size="14" fill="#000000" text-anchor="middle">Netzach</text>
+<circle cx="350" cy="500" r="25" fill="#FFA500" stroke="#a0aec0" stroke-width="1"/>
+<text x="350" y="500" dy="5" font-family="sans-serif" font-size="14" fill="#000000" text-anchor="middle">Hod</text>
+<circle cx="250" cy="600" r="25" fill="#8A2BE2" stroke="#a0aec0" stroke-width="1"/>
+<text x="250" y="600" dy="5" font-family="sans-serif" font-size="14" fill="#000000" text-anchor="middle">Yesod</text>
+<circle cx="250" cy="700" r="25" fill="#8B4513" stroke="#a0aec0" stroke-width="1"/>
+<text x="250" y="700" dy="5" font-family="sans-serif" font-size="14" fill="#000000" text-anchor="middle">Malkuth</text>
+</g>
+</g>
+<g id="the-abyss">
+<rect x="0" y="750" width="500" height="100" fill="#a0aec0" opacity="0.2" />
+<text x="250.0" y="800.0" dy="8" font-family="serif" font-size="24" fill="#4a5568" text-anchor="middle" letter-spacing="4">THE ABYSS</text>
+</g>
+<g id="qliphoth-tree">
+<g id="qliphoth-paths">
+<line x1="250" y1="1550" x2="150" y2="1450" stroke="#f56565" stroke-width="2" />
+<line x1="250" y1="1550" x2="350" y2="1450" stroke="#f56565" stroke-width="2" />
+<line x1="250" y1="1550" x2="250" y2="1200" stroke="#f56565" stroke-width="2" />
+<line x1="150" y1="1450" x2="350" y2="1450" stroke="#f56565" stroke-width="2" />
+<line x1="150" y1="1450" x2="150" y2="1300" stroke="#f56565" stroke-width="2" />
+<line x1="150" y1="1450" x2="250" y2="1200" stroke="#f56565" stroke-width="2" />
+<line x1="350" y1="1450" x2="350" y2="1300" stroke="#f56565" stroke-width="2" />
+<line x1="350" y1="1450" x2="250" y2="1200" stroke="#f56565" stroke-width="2" />
+<line x1="150" y1="1300" x2="350" y2="1300" stroke="#f56565" stroke-width="2" />
+<line x1="150" y1="1300" x2="250" y2="1200" stroke="#f56565" stroke-width="2" />
+<line x1="150" y1="1300" x2="150" y2="1100" stroke="#f56565" stroke-width="2" />
+<line x1="350" y1="1300" x2="250" y2="1200" stroke="#f56565" stroke-width="2" />
+<line x1="350" y1="1300" x2="350" y2="1100" stroke="#f56565" stroke-width="2" />
+<line x1="250" y1="1200" x2="150" y2="1100" stroke="#f56565" stroke-width="2" />
+<line x1="250" y1="1200" x2="350" y2="1100" stroke="#f56565" stroke-width="2" />
+<line x1="250" y1="1200" x2="250" y2="1000" stroke="#f56565" stroke-width="2" />
+<line x1="150" y1="1100" x2="350" y2="1100" stroke="#f56565" stroke-width="2" />
+<line x1="150" y1="1100" x2="250" y2="1000" stroke="#f56565" stroke-width="2" />
+<line x1="350" y1="1100" x2="250" y2="1000" stroke="#f56565" stroke-width="2" />
+<line x1="250" y1="1000" x2="250" y2="900" stroke="#f56565" stroke-width="2" />
+</g>
+<g id="qliphoth-nodes">
+<circle cx="250" cy="1550" r="25" fill="#fed7d7" stroke="#c53030" stroke-width="1.5" />
+<text x="250" y="1550" dy="4" font-family="sans-serif" font-size="12" fill="#c53030" text-anchor="middle" style="font-weight: bold;">Thaumiel</text>
+<circle cx="150" cy="1450" r="25" fill="#fed7d7" stroke="#c53030" stroke-width="1.5" />
+<text x="150" y="1450" dy="4" font-family="sans-serif" font-size="12" fill="#c53030" text-anchor="middle" style="font-weight: bold;">Ghagiel</text>
+<circle cx="350" cy="1450" r="25" fill="#fed7d7" stroke="#c53030" stroke-width="1.5" />
+<text x="350" y="1450" dy="4" font-family="sans-serif" font-size="12" fill="#c53030" text-anchor="middle" style="font-weight: bold;">Satariel</text>
+<circle cx="150" cy="1300" r="25" fill="#fed7d7" stroke="#c53030" stroke-width="1.5" />
+<text x="150" y="1300" dy="4" font-family="sans-serif" font-size="10" fill="#c53030" text-anchor="middle" style="font-weight: bold;">Gha'agsheblah</text>
+<circle cx="350" cy="1300" r="25" fill="#fed7d7" stroke="#c53030" stroke-width="1.5" />
+<text x="350" y="1300" dy="4" font-family="sans-serif" font-size="12" fill="#c53030" text-anchor="middle" style="font-weight: bold;">Golachab</text>
+<circle cx="250" cy="1200" r="25" fill="#fed7d7" stroke="#c53030" stroke-width="1.5" />
+<text x="250" y="1200" dy="4" font-family="sans-serif" font-size="10" fill="#c53030" text-anchor="middle" style="font-weight: bold;">Thagirion</text>
+<circle cx="150" cy="1100" r="25" fill="#fed7d7" stroke="#c53030" stroke-width="1.5" />
+<text x="150" y="1100" dy="4" font-family="sans-serif" font-size="10" fill="#c53030" text-anchor="middle" style="font-weight: bold;">A'arab Zaraq</text>
+<circle cx="350" cy="1100" r="25" fill="#fed7d7" stroke="#c53030" stroke-width="1.5" />
+<text x="350" y="1100" dy="4" font-family="sans-serif" font-size="12" fill="#c53030" text-anchor="middle" style="font-weight: bold;">Samael</text>
+<circle cx="250" cy="1000" r="25" fill="#fed7d7" stroke="#c53030" stroke-width="1.5" />
+<text x="250" y="1000" dy="4" font-family="sans-serif" font-size="12" fill="#c53030" text-anchor="middle" style="font-weight: bold;">Gamaliel</text>
+<circle cx="250" cy="900" r="25" fill="#fed7d7" stroke="#c53030" stroke-width="1.5" />
+<text x="250" y="900" dy="4" font-family="sans-serif" font-size="12" fill="#c53030" text-anchor="middle" style="font-weight: bold;">Nahemoth</text>
+</g>
+</g>
+</svg>

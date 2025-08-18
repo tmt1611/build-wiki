@@ -1,0 +1,62 @@
+<svg viewBox="0 0 500 750" xmlns="http://www.w3.org/2000/svg">
+<rect x="0" y="0" width="500" height="750" fill="#111" />
+<defs>
+        <filter id="qliphoth_static" x="-5%" y="-5%" width="110%" height="110%">
+            <feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="4" stitchTiles="stitch"/>
+            <feDisplacementMap in="SourceGraphic" scale="1.5" />
+        </filter>
+        <radialGradient id="abyss_gradient">
+            <stop offset="20%" stop-color="#000" />
+            <stop offset="100%" stop-color="{abyss_color}" />
+        </radialGradient>
+    </defs>
+<g id="paths" opacity="0.5">
+<line x1="250" y1="700" x2="150" y2="600" stroke="#500" stroke-width="2" filter="url(#qliphoth_static)" />
+<line x1="250" y1="700" x2="350" y2="600" stroke="#500" stroke-width="2" filter="url(#qliphoth_static)" />
+<line x1="250" y1="700" x2="250" y2="350" stroke="#500" stroke-width="2" filter="url(#qliphoth_static)" />
+<line x1="150" y1="600" x2="350" y2="600" stroke="#500" stroke-width="2" filter="url(#qliphoth_static)" />
+<line x1="150" y1="600" x2="150" y2="450" stroke="#500" stroke-width="2" filter="url(#qliphoth_static)" />
+<line x1="150" y1="600" x2="250" y2="350" stroke="#500" stroke-width="2" filter="url(#qliphoth_static)" />
+<line x1="350" y1="600" x2="350" y2="450" stroke="#500" stroke-width="2" filter="url(#qliphoth_static)" />
+<line x1="350" y1="600" x2="250" y2="350" stroke="#500" stroke-width="2" filter="url(#qliphoth_static)" />
+<line x1="150" y1="450" x2="350" y2="450" stroke="#500" stroke-width="2" filter="url(#qliphoth_static)" />
+<line x1="150" y1="450" x2="250" y2="350" stroke="#500" stroke-width="2" filter="url(#qliphoth_static)" />
+<line x1="150" y1="450" x2="150" y2="250" stroke="#500" stroke-width="2" filter="url(#qliphoth_static)" />
+<line x1="350" y1="450" x2="250" y2="350" stroke="#500" stroke-width="2" filter="url(#qliphoth_static)" />
+<line x1="350" y1="450" x2="350" y2="250" stroke="#500" stroke-width="2" filter="url(#qliphoth_static)" />
+<line x1="250" y1="350" x2="150" y2="250" stroke="#500" stroke-width="2" filter="url(#qliphoth_static)" />
+<line x1="250" y1="350" x2="350" y2="250" stroke="#500" stroke-width="2" filter="url(#qliphoth_static)" />
+<line x1="250" y1="350" x2="250" y2="150" stroke="#500" stroke-width="2" filter="url(#qliphoth_static)" />
+<line x1="150" y1="250" x2="350" y2="250" stroke="#500" stroke-width="2" filter="url(#qliphoth_static)" />
+<line x1="150" y1="250" x2="250" y2="150" stroke="#500" stroke-width="2" filter="url(#qliphoth_static)" />
+<line x1="150" y1="250" x2="250" y2="50" stroke="#500" stroke-width="2" filter="url(#qliphoth_static)" />
+<line x1="350" y1="250" x2="250" y2="150" stroke="#500" stroke-width="2" filter="url(#qliphoth_static)" />
+<line x1="350" y1="250" x2="250" y2="50" stroke="#500" stroke-width="2" filter="url(#qliphoth_static)" />
+<line x1="250" y1="150" x2="250" y2="50" stroke="#500" stroke-width="2" filter="url(#qliphoth_static)" />
+</g>
+<g id="nodes">
+<circle cx="250" cy="700" r="25" fill="#300" stroke="#A00" stroke-width="1.5" opacity="0.8"/>
+<text x="250" y="700" dy="4" font-family="sans-serif" font-size="12" fill="#E53E3E" text-anchor="middle" style="pointer-events: none; font-weight: bold;">Thaumiel</text>
+<circle cx="150" cy="600" r="25" fill="#300" stroke="#A00" stroke-width="1.5" opacity="0.8"/>
+<text x="150" y="600" dy="4" font-family="sans-serif" font-size="12" fill="#E53E3E" text-anchor="middle" style="pointer-events: none; font-weight: bold;">Ghagiel</text>
+<circle cx="350" cy="600" r="25" fill="#300" stroke="#A00" stroke-width="1.5" opacity="0.8"/>
+<text x="350" y="600" dy="4" font-family="sans-serif" font-size="12" fill="#E53E3E" text-anchor="middle" style="pointer-events: none; font-weight: bold;">Satariel</text>
+<circle cx="250" cy="525" r="30" fill="url(#abyss_gradient)"/>
+<circle cx="250" cy="525" r="25" fill="black" stroke="#4B0082" stroke-width="1.5" stroke-dasharray="4 2"/>
+<text x="250" y="525" dy="4" font-family="sans-serif" font-size="10" fill="#ccc" text-anchor="middle" style="pointer-events: none; font-weight: bold;">The Abyss</text>
+<circle cx="150" cy="450" r="25" fill="#300" stroke="#A00" stroke-width="1.5" opacity="0.8"/>
+<text x="150" y="450" dy="4" font-family="sans-serif" font-size="10" fill="#E53E3E" text-anchor="middle" style="pointer-events: none; font-weight: bold;">Gha'agsheblah</text>
+<circle cx="350" cy="450" r="25" fill="#300" stroke="#A00" stroke-width="1.5" opacity="0.8"/>
+<text x="350" y="450" dy="4" font-family="sans-serif" font-size="12" fill="#E53E3E" text-anchor="middle" style="pointer-events: none; font-weight: bold;">Golachab</text>
+<circle cx="250" cy="350" r="25" fill="#300" stroke="#A00" stroke-width="1.5" opacity="0.8"/>
+<text x="250" y="350" dy="4" font-family="sans-serif" font-size="10" fill="#E53E3E" text-anchor="middle" style="pointer-events: none; font-weight: bold;">Thagirion</text>
+<circle cx="150" cy="250" r="25" fill="#300" stroke="#A00" stroke-width="1.5" opacity="0.8"/>
+<text x="150" y="250" dy="4" font-family="sans-serif" font-size="10" fill="#E53E3E" text-anchor="middle" style="pointer-events: none; font-weight: bold;">A'arab Zaraq</text>
+<circle cx="350" cy="250" r="25" fill="#300" stroke="#A00" stroke-width="1.5" opacity="0.8"/>
+<text x="350" y="250" dy="4" font-family="sans-serif" font-size="12" fill="#E53E3E" text-anchor="middle" style="pointer-events: none; font-weight: bold;">Samael</text>
+<circle cx="250" cy="150" r="25" fill="#300" stroke="#A00" stroke-width="1.5" opacity="0.8"/>
+<text x="250" y="150" dy="4" font-family="sans-serif" font-size="12" fill="#E53E3E" text-anchor="middle" style="pointer-events: none; font-weight: bold;">Gamaliel</text>
+<circle cx="250" cy="50" r="25" fill="#300" stroke="#A00" stroke-width="1.5" opacity="0.8"/>
+<text x="250" y="50" dy="4" font-family="sans-serif" font-size="12" fill="#E53E3E" text-anchor="middle" style="pointer-events: none; font-weight: bold;">Nahemoth</text>
+</g>
+</svg>

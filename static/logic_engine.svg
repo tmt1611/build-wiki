@@ -1,0 +1,51 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+    <rect width="100%" height="100%" fill="#f7fafc" />
+    <defs>
+        <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+            <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#e2e8f0" stroke-width="0.5"/>
+        </pattern>
+    </defs>
+    
+    <rect width="100%" height="100%" fill="url(#grid)" />
+
+    <g transform="translate(100, 50)">
+        <!-- Main Chassis -->
+        <path d="M 0 20 L 0 180 L 200 180 L 200 20 L 100 0 L 0 20 Z" fill="#e2e8f0" stroke="#718096" stroke-width="1.5" />
+        <rect x="10" y="30" width="180" height="140" fill="#f7fafc" />
+
+        <!-- Central Core -->
+        <circle cx="100" cy="100" r="40" fill="#f7fafc" stroke="#4299E1" stroke-width="2"/>
+        <circle cx="100" cy="100" r="30" fill="none" stroke="#4299E1" stroke-width="1" stroke-dasharray="4 2"/>
+        <text x="100" y="105" fill="#2d3748" font-size="12" text-anchor="middle" font-family="monospace">LOGOS</text>
+
+        <!-- Conduits -->
+        <path d="M 100 60 V 30 H 40" fill="none" stroke="#718096" stroke-width="3" />
+        <path d="M 100 140 V 170 H 160" fill="none" stroke="#718096" stroke-width="3" />
+        <rect x="30" y="25" width="20" height="10" fill="#e2e8f0" stroke="#718096" stroke-width="1"/>
+        <rect x="150" y="165" width="20" height="10" fill="#e2e8f0" stroke="#718096" stroke-width="1"/>
+
+        <!-- Side Vents -->
+        <g transform="translate(15, 60)">
+            <rect width="10" height="80" fill="#f7fafc" stroke="#718096" stroke-width="1" />
+            <line x1="2" y1="5" x2="8" y2="5" stroke="#4299E1" stroke-width="1.5" />
+            <line x1="2" y1="15" x2="8" y2="15" stroke="#718096" stroke-width="1" />
+            <line x1="2" y1="25" x2="8" y2="25" stroke="#718096" stroke-width="1" />
+            <line x1="2" y1="35" x2="8" y2="35" stroke="#718096" stroke-width="1" />
+            <line x1="2" y1="45" x2="8" y2="45" stroke="#718096" stroke-width="1" />
+            <line x1="2" y1="55" x2="8" y2="55" stroke="#718096" stroke-width="1" />
+            <line x1="2" y1="65" x2="8" y2="65" stroke="#718096" stroke-width="1" />
+            <line x1="2" y1="75" x2="8" y2="75" stroke="#4299E1" stroke-width="1.5" />
+        </g>
+        <g transform="translate(175, 60)">
+            <rect width="10" height="80" fill="#f7fafc" stroke="#718096" stroke-width="1" />
+            <line x1="2" y1="5" x2="8" y2="5" stroke="#4299E1" stroke-width="1.5" />
+            <line x1="2" y1="15" x2="8" y2="15" stroke="#718096" stroke-width="1" />
+            <line x1="2" y1="25" x2="8" y2="25" stroke="#718096" stroke-width="1" />
+            <line x1="2" y1="35" x2="8" y2="35" stroke="#718096" stroke-width="1" />
+            <line x1="2" y1="45" x2="8" y2="45" stroke="#718096" stroke-width="1" />
+            <line x1="2" y1="55" x2="8" y2="55" stroke="#718096" stroke-width="1" />
+            <line x1="2" y1="65" x2="8" y2="65" stroke="#718096" stroke-width="1" />
+            <line x1="2" y1="75" x2="8" y2="75" stroke="#4299E1" stroke-width="1.5" />
+        </g>
+    </g>
+</svg>

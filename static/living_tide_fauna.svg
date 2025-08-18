@@ -1,0 +1,44 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+    <rect width="100%" height="100%" fill="#F7FAFC" />
+    <defs>
+        <style>
+            .label-text { font-family: 'serif'; font-size: 10px; fill: #4A5568; }
+        </style>
+    </defs>
+
+    <!-- Main Creature -->
+    <g transform="translate(200, 150)">
+        <!-- Body -->
+        <path d="M -80 0 C -60 -60, 60 -60, 80 0 C 60 80, -60 80, -80 0 Z" fill="none" stroke="#4A5568" stroke-width="2" />
+        <!-- Head -->
+        <path d="M 80 0 C 120 -20, 120 20, 80 0" fill="none" stroke="#4A5568" stroke-width="2" />
+        <circle cx="100" cy="-5" r="3" fill="#4A5568" />
+        <!-- Legs -->
+        <path d="M -50 60 C -60 90, -30 110, -20 80" fill="none" stroke="#4A5568" stroke-width="1.5" />
+        <path d="M -10 75 C -20 105, 10 125, 20 95" fill="none" stroke="#4A5568" stroke-width="1.5" />
+        <path d="M 40 70 C 30 100, 60 120, 70 90" fill="none" stroke="#4A5568" stroke-width="1.5" />
+
+        <!-- Living Tide Features (Vines/Thorns) -->
+        <path d="M -20 -50 C 0 -90, 40 -90, 60 -50" fill="none" stroke="#48BB78" stroke-width="2" />
+        <path d="M 0 -70 L -5 -75 M 20 -80 L 15 -85 M 40 -75 L 35 -80" fill="none" stroke="#48BB78" stroke-width="1.5" />
+    </g>
+    
+    <!-- Annotations -->
+    <g>
+        <!-- Annotation for head -->
+        <line x1="305" y1="145" x2="330" y2="120" stroke="#4A5568" stroke-width="0.5" />
+        <text x="335" y="118" class="label-text">Mandibles (x2)</text>
+        
+        <!-- Annotation for back vines -->
+        <line x1="240" y1="90" x2="280" y2="70" stroke="#4A5568" stroke-width="0.5" />
+        <text x="285" y="68" class="label-text">Photosynthetic Ridge</text>
+        
+        <!-- Annotation for legs -->
+        <line x1="190" y1="230" x2="150" y2="250" stroke="#4A5568" stroke-width="0.5" />
+        <text x="90" y="255" class="label-text">Tarsal Claws</text>
+    </g>
+
+    <!-- Title/Caption -->
+    <text x="20" y="30" style="font-family: serif; font-size: 14px; font-weight: bold; fill:#4A5568;">Specimen: Thorn-backed Strider</text>
+    <text x="20" y="48" class="label-text">Habitat: Chokmah Plains, Flowing Garden</text>
+</svg>
