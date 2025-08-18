@@ -13,7 +13,7 @@
         <a href="index.html" class="home-link">K10 Wiki Hub</a>
         
         <div class="sidebar-search-form">
-            <a href="docs/meta/directory" class="action-button" style="width: 100%; text-align: center; background-color: #555; font-size: 0.9em; padding: 0.5rem;">View Full Directory</a>
+            <a href="docs/meta/directory/index.html" class="action-button" style="width: 100%; text-align: center; background-color: #555; font-size: 0.9em; padding: 0.5rem;">View Full Directory</a>
         </div>
         
         <h3>Navigation</h3>
@@ -39,7 +39,7 @@
         
             
             
-            <a href="docs/catalog/factions-and-figures" class="tree-file-link  ">
+            <a href="docs/catalog/factions-and-figures/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> Factions &amp; Figures
             </a>
         
@@ -49,7 +49,7 @@
         
             
             
-            <a href="docs/catalog/lore-and-cosmology" class="tree-file-link  ">
+            <a href="docs/catalog/lore-and-cosmology/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> Lore &amp; Cosmology
             </a>
         
@@ -59,7 +59,7 @@
         
             
             
-            <a href="docs/catalog/magic-and-power" class="tree-file-link  ">
+            <a href="docs/catalog/magic-and-power/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> Magic &amp; Power
             </a>
         
@@ -89,7 +89,7 @@
         
             
             
-            <a href="docs/character-guide/archetypal-builds" class="tree-file-link  ">
+            <a href="docs/character-guide/archetypal-builds/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> Archetypal Builds
             </a>
         
@@ -99,7 +99,7 @@
         
             
             
-            <a href="docs/character-guide/character-exemplars" class="tree-file-link  ">
+            <a href="docs/character-guide/character-exemplars/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> Character Exemplars
             </a>
         
@@ -109,7 +109,7 @@
         
             
             
-            <a href="docs/character-guide/master-caelus-profile" class="tree-file-link  ">
+            <a href="docs/character-guide/master-caelus-profile/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> Master Caelus: A Profile
             </a>
         
@@ -119,7 +119,7 @@
         
             
             
-            <a href="docs/character-guide/somnus-the-dream-broker-profile" class="tree-file-link  ">
+            <a href="docs/character-guide/somnus-the-dream-broker-profile/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> Somnus, the Dream-Broker: A Profile
             </a>
         
@@ -129,7 +129,7 @@
         
             
             
-            <a href="docs/character-guide/the-oracle-of-the-glass-lens-profile" class="tree-file-link  ">
+            <a href="docs/character-guide/the-oracle-of-the-glass-lens-profile/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> The Oracle of the Glass Lens: A Profile
             </a>
         
@@ -173,7 +173,7 @@
         
             
             
-            <a href="docs/factions-at-war/doctrines/strategic-doctrines-overview" class="tree-file-link  ">
+            <a href="docs/factions-at-war/doctrines/strategic-doctrines-overview/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> Doctrines of War: A Comparative Analysis
             </a>
         
@@ -183,7 +183,7 @@
         
             
             
-            <a href="docs/factions-at-war/doctrines/unconventional-threats" class="tree-file-link  ">
+            <a href="docs/factions-at-war/doctrines/unconventional-threats/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> Unconventional Threats: A Report on Factional Response Doctrines
             </a>
         
@@ -213,7 +213,7 @@
         
             
             
-            <a href="docs/factions-at-war/main-factions-military/the-adamant-phalanx" class="tree-file-link  ">
+            <a href="docs/factions-at-war/main-factions-military/the-adamant-phalanx/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> The Adamant Phalanx: A Tactical Primer
             </a>
         
@@ -223,7 +223,7 @@
         
             
             
-            <a href="docs/factions-at-war/main-factions-military/the-hidden-dagger" class="tree-file-link  ">
+            <a href="docs/factions-at-war/main-factions-military/the-hidden-dagger/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> The Hidden Dagger: An Assessment of Middle Pillar Special Operations
             </a>
         
@@ -233,7 +233,7 @@
         
             
             
-            <a href="docs/factions-at-war/main-factions-military/the-living-tide" class="tree-file-link  ">
+            <a href="docs/factions-at-war/main-factions-military/the-living-tide/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> The Living Tide: A Scout&#39;s Report
             </a>
         
@@ -249,7 +249,7 @@
         
             
             
-            <a href="docs/factions-at-war/arcanum-legions" class="tree-file-link  ">
+            <a href="docs/factions-at-war/arcanum-legions/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> Arcanum Legions: A Catalogue of Heresies
             </a>
         
@@ -259,7 +259,7 @@
         
             
             
-            <a href="docs/factions-at-war/progenitor-factions" class="tree-file-link  ">
+            <a href="docs/factions-at-war/progenitor-factions/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> Progenitor Factions: The War in Heaven
             </a>
         
@@ -289,7 +289,7 @@
         
             
             
-            <a href="docs/getting-started/magic-overview" class="tree-file-link  ">
+            <a href="docs/getting-started/magic-overview/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> Magic: A Primer
             </a>
         
@@ -299,7 +299,7 @@
         
             
             
-            <a href="docs/getting-started/the-three-pillars-comparison" class="tree-file-link  ">
+            <a href="docs/getting-started/the-three-pillars-comparison/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> The Three Pillars: A Faction Comparison
             </a>
         
@@ -309,7 +309,7 @@
         
             
             
-            <a href="docs/getting-started/the-three-pillars-overview" class="tree-file-link  ">
+            <a href="docs/getting-started/the-three-pillars-overview/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> The Three Pillars: An Overview of the Major Factions
             </a>
         
@@ -353,7 +353,7 @@
         
             
             
-            <a href="docs/library/faction-viewpoints/concord-on-magic" class="tree-file-link  ">
+            <a href="docs/library/faction-viewpoints/concord-on-magic/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> A Formal Analysis of the Sefirotic Arts
             </a>
         
@@ -363,7 +363,7 @@
         
             
             
-            <a href="docs/library/faction-viewpoints/foundational-texts" class="tree-file-link  ">
+            <a href="docs/library/faction-viewpoints/foundational-texts/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> Foundational Texts &amp; Viewpoints
             </a>
         
@@ -373,7 +373,7 @@
         
             
             
-            <a href="docs/library/faction-viewpoints/garden-on-magic" class="tree-file-link  ">
+            <a href="docs/library/faction-viewpoints/garden-on-magic/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> The Soul of the Circuit: A Garden Rebuttal
             </a>
         
@@ -383,7 +383,7 @@
         
             
             
-            <a href="docs/library/faction-viewpoints/middle-way-on-magic" class="tree-file-link  ">
+            <a href="docs/library/faction-viewpoints/middle-way-on-magic/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> The Alchemy of the Self
             </a>
         
@@ -413,7 +413,7 @@
         
             
             
-            <a href="docs/library/forbidden-texts/a-divers-journal" class="tree-file-link  ">
+            <a href="docs/library/forbidden-texts/a-divers-journal/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> A Diver&#39;s Journal: The Gilded Grimoire
             </a>
         
@@ -423,7 +423,7 @@
         
             
             
-            <a href="docs/library/forbidden-texts/the-heresy-of-the-husks" class="tree-file-link  ">
+            <a href="docs/library/forbidden-texts/the-heresy-of-the-husks/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> The Heresy of the Husks: A Diver&#39;s Manifesto
             </a>
         
@@ -467,7 +467,7 @@
         
             
             
-            <a href="docs/library/historical-events/factional-case-studies/battle-of-the-serene-valley" class="tree-file-link  ">
+            <a href="docs/library/historical-events/factional-case-studies/battle-of-the-serene-valley/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> The Battle of the Serene Valley: Two Perspectives
             </a>
         
@@ -497,7 +497,7 @@
         
             
             
-            <a href="docs/library/historical-events/war-of-the-shifting-throne/battle-of-the-glass-plains" class="tree-file-link  ">
+            <a href="docs/library/historical-events/war-of-the-shifting-throne/battle-of-the-glass-plains/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> Battle of the Glass Plains
             </a>
         
@@ -507,7 +507,7 @@
         
             
             
-            <a href="docs/library/historical-events/war-of-the-shifting-throne/infiltration-of-the-warring-kingdom" class="tree-file-link  ">
+            <a href="docs/library/historical-events/war-of-the-shifting-throne/infiltration-of-the-warring-kingdom/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> The Infiltration of the Warring Kingdom
             </a>
         
@@ -517,7 +517,7 @@
         
             
             
-            <a href="docs/library/historical-events/war-of-the-shifting-throne/overview" class="tree-file-link  ">
+            <a href="docs/library/historical-events/war-of-the-shifting-throne/overview/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> The War of the Shifting Throne: An Overview
             </a>
         
@@ -527,7 +527,7 @@
         
             
             
-            <a href="docs/library/historical-events/war-of-the-shifting-throne/the-sundering-of-the-pillars" class="tree-file-link  ">
+            <a href="docs/library/historical-events/war-of-the-shifting-throne/the-sundering-of-the-pillars/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> The Sundering of the Pillars: The Factional Schisms of the Great Silence
             </a>
         
@@ -543,7 +543,7 @@
         
             
             
-            <a href="docs/library/historical-events/factional-case-studies-overview" class="tree-file-link  ">
+            <a href="docs/library/historical-events/factional-case-studies-overview/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> Factional Case Studies: A Collection
             </a>
         
@@ -573,7 +573,7 @@
         
             
             
-            <a href="docs/library/modern-treatises/techno-magical-symbiosis" class="tree-file-link  ">
+            <a href="docs/library/modern-treatises/techno-magical-symbiosis/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> The Mundane and the Miraculous: A Study in Techno-Magical Symbiosis
             </a>
         
@@ -583,7 +583,7 @@
         
             
             
-            <a href="docs/library/modern-treatises/the-mage-as-an-engine" class="tree-file-link  ">
+            <a href="docs/library/modern-treatises/the-mage-as-an-engine/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> The Mage as an Engine: A Technocratic View
             </a>
         
@@ -613,7 +613,7 @@
         
             
             
-            <a href="docs/library/sociology-and-culture/architectural-styles" class="tree-file-link  ">
+            <a href="docs/library/sociology-and-culture/architectural-styles/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> Factional Architecture: A Study in Form
             </a>
         
@@ -623,7 +623,7 @@
         
             
             
-            <a href="docs/library/sociology-and-culture/factional-cuisine" class="tree-file-link  ">
+            <a href="docs/library/sociology-and-culture/factional-cuisine/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> Factional Cuisine: A Study in Sustenance
             </a>
         
@@ -633,7 +633,7 @@
         
             
             
-            <a href="docs/library/sociology-and-culture/factional-sociology" class="tree-file-link  ">
+            <a href="docs/library/sociology-and-culture/factional-sociology/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> Factional Sociology: A Comparative Study
             </a>
         
@@ -643,7 +643,7 @@
         
             
             
-            <a href="docs/library/sociology-and-culture/magical-pedagogy" class="tree-file-link  ">
+            <a href="docs/library/sociology-and-culture/magical-pedagogy/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> The Forging of Mages: A Study in Magical Pedagogy
             </a>
         
@@ -653,7 +653,7 @@
         
             
             
-            <a href="docs/library/sociology-and-culture/the-working-mage" class="tree-file-link  ">
+            <a href="docs/library/sociology-and-culture/the-working-mage/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> The Working Mage: Life on the Lower Tiers
             </a>
         
@@ -683,7 +683,7 @@
         
             
             
-            <a href="docs/library/unawakened-library/unawakened-philosophies" class="tree-file-link  ">
+            <a href="docs/library/unawakened-library/unawakened-philosophies/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> Philosophies of the Unawakened
             </a>
         
@@ -699,7 +699,7 @@
         
             
             
-            <a href="docs/library/folklore-and-superstition" class="tree-file-link  ">
+            <a href="docs/library/folklore-and-superstition/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> The Wanderer&#39;s Path
             </a>
         
@@ -743,7 +743,7 @@
         
             
             
-            <a href="docs/magic-system/advanced-topics/advanced-magical-diagnostics" class="tree-file-link  ">
+            <a href="docs/magic-system/advanced-topics/advanced-magical-diagnostics/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> Advanced Magical Diagnostics: The Art of Seeing Deeper
             </a>
         
@@ -753,7 +753,7 @@
         
             
             
-            <a href="docs/magic-system/advanced-topics/contested-magic" class="tree-file-link  ">
+            <a href="docs/magic-system/advanced-topics/contested-magic/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> Contested Magic: A Primer on Conceptual Conflict
             </a>
         
@@ -763,7 +763,7 @@
         
             
             
-            <a href="docs/magic-system/advanced-topics/dissonant-cycles-deep-dive" class="tree-file-link  ">
+            <a href="docs/magic-system/advanced-topics/dissonant-cycles-deep-dive/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> Esoteric &amp; Dissonant Cycles: A Deep Dive
             </a>
         
@@ -773,7 +773,7 @@
         
             
             
-            <a href="docs/magic-system/advanced-topics/rituals-and-artifacts" class="tree-file-link  ">
+            <a href="docs/magic-system/advanced-topics/rituals-and-artifacts/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> K10 Rituals and Artifacts
             </a>
         
@@ -783,7 +783,7 @@
         
             
             
-            <a href="docs/magic-system/advanced-topics/visuals-and-aesthetics" class="tree-file-link  ">
+            <a href="docs/magic-system/advanced-topics/visuals-and-aesthetics/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> K10 Visual Aesthetics and Manifestations
             </a>
         
@@ -813,7 +813,7 @@
         
             
             
-            <a href="docs/magic-system/core-mechanics/corruption" class="tree-file-link  ">
+            <a href="docs/magic-system/core-mechanics/corruption/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> The Price of Power: A Study of Magical Corruption
             </a>
         
@@ -823,7 +823,7 @@
         
             
             
-            <a href="docs/magic-system/core-mechanics/cycles" class="tree-file-link  ">
+            <a href="docs/magic-system/core-mechanics/cycles/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> Foundational Cycles: The 22 Arcana
             </a>
         
@@ -833,7 +833,7 @@
         
             
             
-            <a href="docs/magic-system/core-mechanics/milestones-and-progression" class="tree-file-link  ">
+            <a href="docs/magic-system/core-mechanics/milestones-and-progression/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> Pathways of Power: A Guide to Milestones &amp; Progression
             </a>
         
@@ -863,7 +863,7 @@
         
             
             
-            <a href="docs/magic-system/paths/the-22-paths" class="tree-file-link  ">
+            <a href="docs/magic-system/paths/the-22-paths/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> The 22 Paths: Arts of Transformation
             </a>
         
@@ -893,7 +893,7 @@
         
             
             
-            <a href="docs/magic-system/sefirot/s1-keter" class="tree-file-link  ">
+            <a href="docs/magic-system/sefirot/s1-keter/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> S1: Keter (The Crown)
             </a>
         
@@ -903,7 +903,7 @@
         
             
             
-            <a href="docs/magic-system/sefirot/s2-chokmah" class="tree-file-link  ">
+            <a href="docs/magic-system/sefirot/s2-chokmah/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> S2: Chokmah (Wisdom)
             </a>
         
@@ -913,7 +913,7 @@
         
             
             
-            <a href="docs/magic-system/sefirot/s3-binah" class="tree-file-link  ">
+            <a href="docs/magic-system/sefirot/s3-binah/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> S3: Binah (Understanding)
             </a>
         
@@ -923,7 +923,7 @@
         
             
             
-            <a href="docs/magic-system/sefirot/s4-chesed" class="tree-file-link  ">
+            <a href="docs/magic-system/sefirot/s4-chesed/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> S4: Chesed (Mercy)
             </a>
         
@@ -933,7 +933,7 @@
         
             
             
-            <a href="docs/magic-system/sefirot/s5-gevurah" class="tree-file-link  ">
+            <a href="docs/magic-system/sefirot/s5-gevurah/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> S5: Gevurah (Severity)
             </a>
         
@@ -943,7 +943,7 @@
         
             
             
-            <a href="docs/magic-system/sefirot/s6-tiferet" class="tree-file-link  ">
+            <a href="docs/magic-system/sefirot/s6-tiferet/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> S6: Tiferet (Beauty)
             </a>
         
@@ -953,7 +953,7 @@
         
             
             
-            <a href="docs/magic-system/sefirot/s7-netzach" class="tree-file-link  ">
+            <a href="docs/magic-system/sefirot/s7-netzach/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> S7: Netzach (Victory)
             </a>
         
@@ -963,7 +963,7 @@
         
             
             
-            <a href="docs/magic-system/sefirot/s8-hod" class="tree-file-link  ">
+            <a href="docs/magic-system/sefirot/s8-hod/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> S8: Hod (Splendor)
             </a>
         
@@ -973,7 +973,7 @@
         
             
             
-            <a href="docs/magic-system/sefirot/s9-yesod" class="tree-file-link  ">
+            <a href="docs/magic-system/sefirot/s9-yesod/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> S9: Yesod (The Foundation)
             </a>
         
@@ -983,7 +983,7 @@
         
             
             
-            <a href="docs/magic-system/sefirot/s10-malkuth" class="tree-file-link  ">
+            <a href="docs/magic-system/sefirot/s10-malkuth/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> S10: Malkuth (The Kingdom)
             </a>
         
@@ -999,7 +999,7 @@
         
             
             
-            <a href="docs/magic-system/glossary" class="tree-file-link  ">
+            <a href="docs/magic-system/glossary/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> Glossary
             </a>
         
@@ -1043,7 +1043,7 @@
         
             
             
-            <a href="docs/world-lore/cosmology/daat-the-abyss" class="tree-file-link  ">
+            <a href="docs/world-lore/cosmology/daat-the-abyss/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> Da&#39;at: The Abyss
             </a>
         
@@ -1053,7 +1053,7 @@
         
             
             
-            <a href="docs/world-lore/cosmology/overview" class="tree-file-link  ">
+            <a href="docs/world-lore/cosmology/overview/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> The Cosmic Framework: Divine, Abyssal, and Parasitic Realms
             </a>
         
@@ -1063,7 +1063,7 @@
         
             
             
-            <a href="docs/world-lore/cosmology/qliphothic-avatars" class="tree-file-link  ">
+            <a href="docs/world-lore/cosmology/qliphothic-avatars/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> Qliphothic Avatars: A Field Guide
             </a>
         
@@ -1073,7 +1073,7 @@
         
             
             
-            <a href="docs/world-lore/cosmology/sefirotic-realms" class="tree-file-link  ">
+            <a href="docs/world-lore/cosmology/sefirotic-realms/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> The Sefirotic Realms: Worlds Within Worlds
             </a>
         
@@ -1083,7 +1083,7 @@
         
             
             
-            <a href="docs/world-lore/cosmology/the-qliphoth" class="tree-file-link  ">
+            <a href="docs/world-lore/cosmology/the-qliphoth/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> The Qliphoth: Husks of Reality
             </a>
         
@@ -1113,7 +1113,7 @@
         
             
             
-            <a href="docs/world-lore/locations/guilds-and-professions" class="tree-file-link  ">
+            <a href="docs/world-lore/locations/guilds-and-professions/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> Guilds and Professions of Nexus
             </a>
         
@@ -1123,7 +1123,7 @@
         
             
             
-            <a href="docs/world-lore/locations/nexus-the-city-of-glass" class="tree-file-link  ">
+            <a href="docs/world-lore/locations/nexus-the-city-of-glass/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> Nexus: The City of Glass
             </a>
         
@@ -1153,7 +1153,7 @@
         
             
             
-            <a href="docs/world-lore/people/key-figures-of-nexus" class="tree-file-link  ">
+            <a href="docs/world-lore/people/key-figures-of-nexus/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> Key Figures of Nexus
             </a>
         
@@ -1183,7 +1183,7 @@
         
             
             
-            <a href="docs/world-lore/qliphoth/1-thaumiel" class="tree-file-link  ">
+            <a href="docs/world-lore/qliphoth/1-thaumiel/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> 1. Thaumiel (The Twins of God)
             </a>
         
@@ -1193,7 +1193,7 @@
         
             
             
-            <a href="docs/world-lore/qliphoth/2-ghagiel" class="tree-file-link  ">
+            <a href="docs/world-lore/qliphoth/2-ghagiel/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> 2. Ghagiel (The Hinderers)
             </a>
         
@@ -1203,7 +1203,7 @@
         
             
             
-            <a href="docs/world-lore/qliphoth/3-satariel" class="tree-file-link  ">
+            <a href="docs/world-lore/qliphoth/3-satariel/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> 3. Satariel (The Concealers)
             </a>
         
@@ -1213,7 +1213,7 @@
         
             
             
-            <a href="docs/world-lore/qliphoth/4-ghaagsheblah" class="tree-file-link  ">
+            <a href="docs/world-lore/qliphoth/4-ghaagsheblah/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> 4. Gha&#39;agsheblah (The Smothering Ones)
             </a>
         
@@ -1223,7 +1223,7 @@
         
             
             
-            <a href="docs/world-lore/qliphoth/5-golachab" class="tree-file-link  ">
+            <a href="docs/world-lore/qliphoth/5-golachab/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> 5. Golachab (The Burners with Fire)
             </a>
         
@@ -1233,7 +1233,7 @@
         
             
             
-            <a href="docs/world-lore/qliphoth/6-thagirion" class="tree-file-link  ">
+            <a href="docs/world-lore/qliphoth/6-thagirion/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> 6. Thagirion (The Disputers)
             </a>
         
@@ -1243,7 +1243,7 @@
         
             
             
-            <a href="docs/world-lore/qliphoth/7-aarab-zaraq" class="tree-file-link  ">
+            <a href="docs/world-lore/qliphoth/7-aarab-zaraq/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> 7. A&#39;arab Zaraq (The Ravens of Dispersion)
             </a>
         
@@ -1253,7 +1253,7 @@
         
             
             
-            <a href="docs/world-lore/qliphoth/8-samael" class="tree-file-link  ">
+            <a href="docs/world-lore/qliphoth/8-samael/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> 8. Samael (The Poison of God)
             </a>
         
@@ -1263,7 +1263,7 @@
         
             
             
-            <a href="docs/world-lore/qliphoth/9-gamaliel" class="tree-file-link  ">
+            <a href="docs/world-lore/qliphoth/9-gamaliel/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> 9. Gamaliel (The Obscene Ones)
             </a>
         
@@ -1273,7 +1273,7 @@
         
             
             
-            <a href="docs/world-lore/qliphoth/10-nahemoth" class="tree-file-link  ">
+            <a href="docs/world-lore/qliphoth/10-nahemoth/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> 10. Nahemoth (The Whispering Ones)
             </a>
         
@@ -1303,7 +1303,7 @@
         
             
             
-            <a href="docs/world-lore/realms/s1-keter" class="tree-file-link  ">
+            <a href="docs/world-lore/realms/s1-keter/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> The Silent Throne (Realm of Keter)
             </a>
         
@@ -1313,7 +1313,7 @@
         
             
             
-            <a href="docs/world-lore/realms/s2-chokmah" class="tree-file-link  ">
+            <a href="docs/world-lore/realms/s2-chokmah/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> The Unwritten Library (Realm of Chokmah)
             </a>
         
@@ -1323,7 +1323,7 @@
         
             
             
-            <a href="docs/world-lore/realms/s3-binah" class="tree-file-link  ">
+            <a href="docs/world-lore/realms/s3-binah/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> The Clockwork Inevitable (Realm of Binah)
             </a>
         
@@ -1333,7 +1333,7 @@
         
             
             
-            <a href="docs/world-lore/realms/s4-chesed" class="tree-file-link  ">
+            <a href="docs/world-lore/realms/s4-chesed/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> The Boundless Garden (Realm of Chesed)
             </a>
         
@@ -1343,7 +1343,7 @@
         
             
             
-            <a href="docs/world-lore/realms/s5-gevurah" class="tree-file-link  ">
+            <a href="docs/world-lore/realms/s5-gevurah/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> The Crucible of Judgment (Realm of Gevurah)
             </a>
         
@@ -1353,7 +1353,7 @@
         
             
             
-            <a href="docs/world-lore/realms/s6-tiferet" class="tree-file-link  ">
+            <a href="docs/world-lore/realms/s6-tiferet/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> The Resplendent Heart (Realm of Tiferet)
             </a>
         
@@ -1363,7 +1363,7 @@
         
             
             
-            <a href="docs/world-lore/realms/s7-netzach" class="tree-file-link  ">
+            <a href="docs/world-lore/realms/s7-netzach/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> The Endless Dawn (Realm of Netzach)
             </a>
         
@@ -1373,7 +1373,7 @@
         
             
             
-            <a href="docs/world-lore/realms/s8-hod" class="tree-file-link  ">
+            <a href="docs/world-lore/realms/s8-hod/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> The Crystal Web (Realm of Hod)
             </a>
         
@@ -1383,7 +1383,7 @@
         
             
             
-            <a href="docs/world-lore/realms/s9-yesod" class="tree-file-link  ">
+            <a href="docs/world-lore/realms/s9-yesod/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> The Lunar Sea (Realm of Yesod)
             </a>
         
@@ -1393,7 +1393,7 @@
         
             
             
-            <a href="docs/world-lore/realms/s10-malkuth" class="tree-file-link  ">
+            <a href="docs/world-lore/realms/s10-malkuth/index.html" class="tree-file-link  ">
                 <span class="icon file "></span> The Perfected Earth (Realm of Malkuth)
             </a>
         
@@ -1429,7 +1429,7 @@
         
             
             
-            <a href="docs/meta/changelog" class="tree-file-link  meta-file">
+            <a href="docs/meta/changelog/index.html" class="tree-file-link  meta-file">
                 <span class="icon file meta-icon"></span> K10 Changelog
             </a>
         
@@ -1439,7 +1439,7 @@
         
             
             
-            <a href="docs/meta/contributor-roles" class="tree-file-link  meta-file">
+            <a href="docs/meta/contributor-roles/index.html" class="tree-file-link  meta-file">
                 <span class="icon file meta-icon"></span> A Guide to Contributor Roles
             </a>
         
@@ -1449,7 +1449,7 @@
         
             
             
-            <a href="docs/meta/development-plan" class="tree-file-link  meta-file">
+            <a href="docs/meta/development-plan/index.html" class="tree-file-link  meta-file">
                 <span class="icon file meta-icon"></span> K10 Development Plan
             </a>
         
@@ -1459,7 +1459,7 @@
         
             
             
-            <a href="docs/meta/directory" class="tree-file-link  meta-file">
+            <a href="docs/meta/directory/index.html" class="tree-file-link  meta-file">
                 <span class="icon file meta-icon"></span> Project Directory
             </a>
         
@@ -1469,7 +1469,7 @@
         
             
             
-            <a href="docs/meta/playtest-feedback" class="tree-file-link  meta-file">
+            <a href="docs/meta/playtest-feedback/index.html" class="tree-file-link  meta-file">
                 <span class="icon file meta-icon"></span> Playtest Feedback
             </a>
         
@@ -1479,7 +1479,7 @@
         
             
             
-            <a href="docs/meta/reports" class="tree-file-link  meta-file">
+            <a href="docs/meta/reports/index.html" class="tree-file-link  meta-file">
                 <span class="icon file meta-icon"></span> Page Problem Reports
             </a>
         
@@ -1489,7 +1489,7 @@
         
             
             
-            <a href="docs/meta/style-guide" class="tree-file-link  meta-file">
+            <a href="docs/meta/style-guide/index.html" class="tree-file-link  meta-file">
                 <span class="icon file meta-icon"></span> K10 Writing Style Guide
             </a>
         
@@ -1511,15 +1511,15 @@
                 
                     
                     
-                    <li><a href="docs/catalog/factions-and-figures" class="tree-file-link">Factions &amp; Figures</a></li>
+                    <li><a href="docs/catalog/factions-and-figures/index.html" class="tree-file-link">Factions &amp; Figures</a></li>
                 
                     
                     
-                    <li><a href="docs/catalog/lore-and-cosmology" class="tree-file-link">Lore &amp; Cosmology</a></li>
+                    <li><a href="docs/catalog/lore-and-cosmology/index.html" class="tree-file-link">Lore &amp; Cosmology</a></li>
                 
                     
                     
-                    <li><a href="docs/catalog/magic-and-power" class="tree-file-link">Magic &amp; Power</a></li>
+                    <li><a href="docs/catalog/magic-and-power/index.html" class="tree-file-link">Magic &amp; Power</a></li>
                 
             </ul>
         </div>
