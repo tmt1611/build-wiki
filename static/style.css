@@ -652,15 +652,51 @@ header.page-header h1 {
     /* word-break is not set, so words will not be split. Columns will expand to fit the longest word. */
 }
 
-.content-body th {
-    background-color: #383838;
-}
-
-/* Classes for adjusting column widths */
 .content-body th.col-shrink {
     width: 1%; /* Hint for auto-layout tables to make this column as narrow as content allows. */
 }
 
+.content-body th {
+    background-color: #383838;
+}
+
+/* Styles for sortable table headers */
+.content-body th[data-sort-type] {
+    cursor: pointer;
+    position: relative;
+    user-select: none;
+}
+.content-body th[data-sort-type]::after {
+    content: ' ';
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    margin-top: -8px;
+    width: 0;
+    height: 0;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    opacity: 0.3;
+}
+.content-body th[data-sort-type]:hover::after {
+    opacity: 0.7;
+}
+.content-body th[data-sort-type].sort-asc::after {
+    margin-top: -2px;
+    border-bottom: 5px solid #fff;
+    opacity: 1;
+}
+.content-body th[data-sort-type].sort-desc::after {
+    border-top: 5px solid #fff;
+    opacity: 1;
+}
+
+tr.orphan-row td {
+    background-color: #4a4a2a; /* Muted yellow for warning */
+}
+tr.orphan-row:hover td {
+    background-color: #5a5a3a;
+}
 
 .related-docs {
     margin-top: 3rem;
@@ -1076,44 +1112,106 @@ mark.search-highlight.active {
     }
 }
 
-/* Sortable table headers */
-#content-health-table th {
-    position: relative;
-    cursor: pointer;
+/* Dev Dashboard Specifics */
+#control-panel {
+    margin-bottom: 2rem;
+    background-color: #2a2a2a;
+    border: 1px solid #444;
+    border-radius: 6px;
+    padding: 1.5rem;
 }
-#content-health-table th.sort-asc::after,
-#content-health-table th.sort-desc::after {
-    position: absolute;
-    right: 8px;
-    top: 50%;
-    transform: translateY(-50%);
-    color: #e0e0e0;
-    font-size: 0.8em;
+#control-panel h2 {
+    margin-top: 0;
 }
-#content-health-table th.sort-asc::after {
-    content: '▲';
-}
-#content-health-table th.sort-desc::after {
-    content: '▼';
+#control-panel div {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 1rem;
 }
 
-/* Sortable table headers */
-#content-health-table th {
-    position: relative;
+#quick-jumps {
+    padding: 1.5rem;
+    background-color: #2a2a2a;
+    border-radius: 6px;
+    border: 1px solid #444;
+}
+#quick-jumps h3 {
+    margin-top: 0;
+    font-size: 1.1em;
+    color: #ccc;
+    margin-bottom: 0.75rem;
+}
+#quick-jumps ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 1.5rem;
+    flex-wrap: wrap;
+    font-size: 0.9em;
+}
+
+.report-group summary {
     cursor: pointer;
+    padding: 0.5rem 1rem;
+    background-color: #333;
+    border: 1px solid #444;
+    border-radius: 4px;
+    margin-top: 0.5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
-#content-health-table th.sort-asc::after,
-#content-health-table th.sort-desc::after {
-    position: absolute;
-    right: 8px;
-    top: 50%;
-    transform: translateY(-50%);
-    color: #e0e0e0;
-    font-size: 0.8em;
+.report-group summary:hover {
+    background-color: #3a3a3a;
 }
-#content-health-table th.sort-asc::after {
-    content: '▲';
+.report-group[open] summary {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
 }
-#content-health-table th.sort-desc::after {
-    content: '▼';
+.report-group .report-content-body {
+    border: 1px solid #444;
+    border-top: none;
+    padding: 0;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+}
+.report-group .report-content-body table {
+    margin: 0;
+}
+
+/* Input group for buttons with dropdowns etc */
+.input-group {
+    display: flex;
+    width: 100%;
+}
+
+.input-group .action-button {
+    border-radius: 0;
+    flex-grow: 1;
+    width: auto;
+    padding-left: 0.8rem;
+    padding-right: 0.8rem;
+}
+
+.input-group > .action-button:first-child {
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+}
+
+.input-group > .action-button:last-child {
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+}
+
+.input-group select.action-button {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%23e0e0e0'%3E%3Cpath d='M7,10L12,15L17,10H7Z'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 0.5rem center;
+    background-size: 1.2em;
+    padding-right: 2rem;
+    flex-grow: 0;
 }
