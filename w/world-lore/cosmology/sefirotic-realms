@@ -1,0 +1,1728 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Sefirotic Realms: Worlds Within Worlds - K10 Wiki</title>
+    <link rel="stylesheet" href="../../../static/style.css">
+    
+</head>
+<body>
+    <aside class="sidebar">
+        <a href="../../../index.html" class="home-link">K10 Wiki Hub</a>
+        
+        <div class="sidebar-search-form">
+            <a href="../../meta/directory" class="action-button" style="width: 100%; text-align: center; background-color: #555; font-size: 0.9em; padding: 0.5rem;">View Full Directory</a>
+        </div>
+        
+        <h3>Navigation</h3>
+        
+        
+<ul class="tree-view">
+    
+    <li>
+        
+            
+            <details >
+                <summary class="">
+                    <a href="../../character-guide/" class="node-link">
+                        <span class="icon folder"></span>
+                        <span class="node-name">Character Guide</span>
+                        <span class="node-count">6</span>
+                    </a>
+                </summary>
+                
+<ul class="tree-view">
+    
+    <li>
+        
+            
+            
+            <a href="../../character-guide/archetypal-builds" class="tree-file-link  ">
+                <span class="icon file "></span> Archetypal Builds
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../../character-guide/character-exemplars" class="tree-file-link  ">
+                <span class="icon file "></span> Character Exemplars
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../../character-guide/master-caelus-profile" class="tree-file-link  ">
+                <span class="icon file "></span> Master Caelus: A Profile
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../../character-guide/overview" class="tree-file-link  ">
+                <span class="icon file "></span> Character Guide Overview
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../../character-guide/somnus-the-dream-broker-profile" class="tree-file-link  ">
+                <span class="icon file "></span> Somnus, the Dream-Broker: A Profile
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../../character-guide/the-oracle-of-the-glass-lens-profile" class="tree-file-link  ">
+                <span class="icon file "></span> The Oracle of the Glass Lens: A Profile
+            </a>
+        
+    </li>
+    
+</ul>
+
+            </details>
+        
+    </li>
+    
+    <li>
+        
+            
+            <details >
+                <summary class="">
+                    <a href="../../factions-at-war/" class="node-link">
+                        <span class="icon folder"></span>
+                        <span class="node-name">Factions At War</span>
+                        <span class="node-count">7</span>
+                    </a>
+                </summary>
+                
+<ul class="tree-view">
+    
+    <li>
+        
+            
+            <details >
+                <summary class="">
+                    <a href="../../factions-at-war/doctrines/" class="node-link">
+                        <span class="icon folder"></span>
+                        <span class="node-name">Doctrines</span>
+                        <span class="node-count">2</span>
+                    </a>
+                </summary>
+                
+<ul class="tree-view">
+    
+    <li>
+        
+            
+            
+            <a href="../../factions-at-war/doctrines/strategic-doctrines-overview" class="tree-file-link  ">
+                <span class="icon file "></span> Doctrines of War: A Comparative Analysis
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../../factions-at-war/doctrines/unconventional-threats" class="tree-file-link  ">
+                <span class="icon file "></span> Unconventional Threats: A Report on Factional Response Doctrines
+            </a>
+        
+    </li>
+    
+</ul>
+
+            </details>
+        
+    </li>
+    
+    <li>
+        
+            
+            <details >
+                <summary class="">
+                    <a href="../../factions-at-war/main-factions-military/" class="node-link">
+                        <span class="icon folder"></span>
+                        <span class="node-name">Main Factions Military</span>
+                        <span class="node-count">3</span>
+                    </a>
+                </summary>
+                
+<ul class="tree-view">
+    
+    <li>
+        
+            
+            
+            <a href="../../factions-at-war/main-factions-military/the-adamant-phalanx" class="tree-file-link  ">
+                <span class="icon file "></span> The Adamant Phalanx: A Tactical Primer
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../../factions-at-war/main-factions-military/the-hidden-dagger" class="tree-file-link  ">
+                <span class="icon file "></span> The Hidden Dagger: An Assessment of Middle Pillar Special Operations
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../../factions-at-war/main-factions-military/the-living-tide" class="tree-file-link  ">
+                <span class="icon file "></span> The Living Tide: A Scout&#39;s Report
+            </a>
+        
+    </li>
+    
+</ul>
+
+            </details>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../../factions-at-war/arcanum-legions" class="tree-file-link  ">
+                <span class="icon file "></span> Arcanum Legions: A Catalogue of Heresies
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../../factions-at-war/progenitor-factions" class="tree-file-link  ">
+                <span class="icon file "></span> Progenitor Factions: The War in Heaven
+            </a>
+        
+    </li>
+    
+</ul>
+
+            </details>
+        
+    </li>
+    
+    <li>
+        
+            
+            <details >
+                <summary class="">
+                    <a href="../../getting-started/" class="node-link">
+                        <span class="icon folder"></span>
+                        <span class="node-name">Getting Started</span>
+                        <span class="node-count">3</span>
+                    </a>
+                </summary>
+                
+<ul class="tree-view">
+    
+    <li>
+        
+            
+            
+            <a href="../../getting-started/magic-overview" class="tree-file-link  ">
+                <span class="icon file "></span> Magic: A Primer
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../../getting-started/the-three-pillars-comparison" class="tree-file-link  ">
+                <span class="icon file "></span> The Three Pillars: A Faction Comparison
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../../getting-started/the-three-pillars-overview" class="tree-file-link  ">
+                <span class="icon file "></span> The Three Pillars: An Overview of the Major Factions
+            </a>
+        
+    </li>
+    
+</ul>
+
+            </details>
+        
+    </li>
+    
+    <li>
+        
+            
+            <details >
+                <summary class="">
+                    <a href="../../library/" class="node-link">
+                        <span class="icon folder"></span>
+                        <span class="node-name">Library</span>
+                        <span class="node-count">21</span>
+                    </a>
+                </summary>
+                
+<ul class="tree-view">
+    
+    <li>
+        
+            
+            <details >
+                <summary class="">
+                    <a href="../../library/faction-viewpoints/" class="node-link">
+                        <span class="icon folder"></span>
+                        <span class="node-name">Faction Viewpoints</span>
+                        <span class="node-count">4</span>
+                    </a>
+                </summary>
+                
+<ul class="tree-view">
+    
+    <li>
+        
+            
+            
+            <a href="../../library/faction-viewpoints/concord-on-magic" class="tree-file-link  ">
+                <span class="icon file "></span> A Formal Analysis of the Sefirotic Arts
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../../library/faction-viewpoints/foundational-texts" class="tree-file-link  ">
+                <span class="icon file "></span> Foundational Texts &amp; Viewpoints
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../../library/faction-viewpoints/garden-on-magic" class="tree-file-link  ">
+                <span class="icon file "></span> The Soul of the Circuit: A Garden Rebuttal
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../../library/faction-viewpoints/middle-way-on-magic" class="tree-file-link  ">
+                <span class="icon file "></span> The Alchemy of the Self
+            </a>
+        
+    </li>
+    
+</ul>
+
+            </details>
+        
+    </li>
+    
+    <li>
+        
+            
+            <details >
+                <summary class="">
+                    <a href="../../library/forbidden-texts/" class="node-link">
+                        <span class="icon folder"></span>
+                        <span class="node-name">Forbidden Texts</span>
+                        <span class="node-count">2</span>
+                    </a>
+                </summary>
+                
+<ul class="tree-view">
+    
+    <li>
+        
+            
+            
+            <a href="../../library/forbidden-texts/a-divers-journal" class="tree-file-link  ">
+                <span class="icon file "></span> A Diver&#39;s Journal: The Gilded Grimoire
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../../library/forbidden-texts/the-heresy-of-the-husks" class="tree-file-link  ">
+                <span class="icon file "></span> The Heresy of the Husks: A Diver&#39;s Manifesto
+            </a>
+        
+    </li>
+    
+</ul>
+
+            </details>
+        
+    </li>
+    
+    <li>
+        
+            
+            <details >
+                <summary class="">
+                    <a href="../../library/historical-events/" class="node-link">
+                        <span class="icon folder"></span>
+                        <span class="node-name">Historical Events</span>
+                        <span class="node-count">6</span>
+                    </a>
+                </summary>
+                
+<ul class="tree-view">
+    
+    <li>
+        
+            
+            <details >
+                <summary class="">
+                    <a href="../../library/historical-events/factional-case-studies/" class="node-link">
+                        <span class="icon folder"></span>
+                        <span class="node-name">Factional Case Studies</span>
+                        <span class="node-count">1</span>
+                    </a>
+                </summary>
+                
+<ul class="tree-view">
+    
+    <li>
+        
+            
+            
+            <a href="../../library/historical-events/factional-case-studies/battle-of-the-serene-valley" class="tree-file-link  ">
+                <span class="icon file "></span> The Battle of the Serene Valley: Two Perspectives
+            </a>
+        
+    </li>
+    
+</ul>
+
+            </details>
+        
+    </li>
+    
+    <li>
+        
+            
+            <details >
+                <summary class="">
+                    <a href="../../library/historical-events/war-of-the-shifting-throne/" class="node-link">
+                        <span class="icon folder"></span>
+                        <span class="node-name">War Of The Shifting Throne</span>
+                        <span class="node-count">4</span>
+                    </a>
+                </summary>
+                
+<ul class="tree-view">
+    
+    <li>
+        
+            
+            
+            <a href="../../library/historical-events/war-of-the-shifting-throne/battle-of-the-glass-plains" class="tree-file-link  ">
+                <span class="icon file "></span> Battle of the Glass Plains
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../../library/historical-events/war-of-the-shifting-throne/infiltration-of-the-warring-kingdom" class="tree-file-link  ">
+                <span class="icon file "></span> The Infiltration of the Warring Kingdom
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../../library/historical-events/war-of-the-shifting-throne/overview" class="tree-file-link  ">
+                <span class="icon file "></span> The War of the Shifting Throne: An Overview
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../../library/historical-events/war-of-the-shifting-throne/the-sundering-of-the-pillars" class="tree-file-link  ">
+                <span class="icon file "></span> The Sundering of the Pillars: The Factional Schisms of the Great Silence
+            </a>
+        
+    </li>
+    
+</ul>
+
+            </details>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../../library/historical-events/factional-case-studies-overview" class="tree-file-link  ">
+                <span class="icon file "></span> Factional Case Studies: A Collection
+            </a>
+        
+    </li>
+    
+</ul>
+
+            </details>
+        
+    </li>
+    
+    <li>
+        
+            
+            <details >
+                <summary class="">
+                    <a href="../../library/modern-treatises/" class="node-link">
+                        <span class="icon folder"></span>
+                        <span class="node-name">Modern Treatises</span>
+                        <span class="node-count">2</span>
+                    </a>
+                </summary>
+                
+<ul class="tree-view">
+    
+    <li>
+        
+            
+            
+            <a href="../../library/modern-treatises/techno-magical-symbiosis" class="tree-file-link  ">
+                <span class="icon file "></span> The Mundane and the Miraculous: A Study in Techno-Magical Symbiosis
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../../library/modern-treatises/the-mage-as-an-engine" class="tree-file-link  ">
+                <span class="icon file "></span> The Mage as an Engine: A Technocratic View
+            </a>
+        
+    </li>
+    
+</ul>
+
+            </details>
+        
+    </li>
+    
+    <li>
+        
+            
+            <details >
+                <summary class="">
+                    <a href="../../library/sociology-and-culture/" class="node-link">
+                        <span class="icon folder"></span>
+                        <span class="node-name">Sociology And Culture</span>
+                        <span class="node-count">5</span>
+                    </a>
+                </summary>
+                
+<ul class="tree-view">
+    
+    <li>
+        
+            
+            
+            <a href="../../library/sociology-and-culture/architectural-styles" class="tree-file-link  ">
+                <span class="icon file "></span> Factional Architecture: A Study in Form
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../../library/sociology-and-culture/factional-cuisine" class="tree-file-link  ">
+                <span class="icon file "></span> Factional Cuisine: A Study in Sustenance
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../../library/sociology-and-culture/factional-sociology" class="tree-file-link  ">
+                <span class="icon file "></span> Factional Sociology: A Comparative Study
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../../library/sociology-and-culture/magical-pedagogy" class="tree-file-link  ">
+                <span class="icon file "></span> The Forging of Mages: A Study in Magical Pedagogy
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../../library/sociology-and-culture/the-working-mage" class="tree-file-link  ">
+                <span class="icon file "></span> The Working Mage: Life on the Lower Tiers
+            </a>
+        
+    </li>
+    
+</ul>
+
+            </details>
+        
+    </li>
+    
+    <li>
+        
+            
+            <details >
+                <summary class="">
+                    <a href="../../library/unawakened-library/" class="node-link">
+                        <span class="icon folder"></span>
+                        <span class="node-name">Unawakened Library</span>
+                        <span class="node-count">1</span>
+                    </a>
+                </summary>
+                
+<ul class="tree-view">
+    
+    <li>
+        
+            
+            
+            <a href="../../library/unawakened-library/unawakened-philosophies" class="tree-file-link  ">
+                <span class="icon file "></span> Philosophies of the Unawakened
+            </a>
+        
+    </li>
+    
+</ul>
+
+            </details>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../../library/folklore-and-superstition" class="tree-file-link  ">
+                <span class="icon file "></span> The Wanderer&#39;s Path
+            </a>
+        
+    </li>
+    
+</ul>
+
+            </details>
+        
+    </li>
+    
+    <li>
+        
+            
+            <details >
+                <summary class="">
+                    <a href="../../magic-system/" class="node-link">
+                        <span class="icon folder"></span>
+                        <span class="node-name">Magic System</span>
+                        <span class="node-count">20</span>
+                    </a>
+                </summary>
+                
+<ul class="tree-view">
+    
+    <li>
+        
+            
+            <details >
+                <summary class="">
+                    <a href="../../magic-system/advanced-topics/" class="node-link">
+                        <span class="icon folder"></span>
+                        <span class="node-name">Advanced Topics</span>
+                        <span class="node-count">5</span>
+                    </a>
+                </summary>
+                
+<ul class="tree-view">
+    
+    <li>
+        
+            
+            
+            <a href="../../magic-system/advanced-topics/advanced-magical-diagnostics" class="tree-file-link  ">
+                <span class="icon file "></span> Advanced Magical Diagnostics: The Art of Seeing Deeper
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../../magic-system/advanced-topics/contested-magic" class="tree-file-link  ">
+                <span class="icon file "></span> Contested Magic: A Primer on Conceptual Conflict
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../../magic-system/advanced-topics/dissonant-cycles-deep-dive" class="tree-file-link  ">
+                <span class="icon file "></span> Esoteric &amp; Dissonant Cycles: A Deep Dive
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../../magic-system/advanced-topics/rituals-and-artifacts" class="tree-file-link  ">
+                <span class="icon file "></span> K10 Rituals and Artifacts
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../../magic-system/advanced-topics/visuals-and-aesthetics" class="tree-file-link  ">
+                <span class="icon file "></span> K10 Visual Aesthetics and Manifestations
+            </a>
+        
+    </li>
+    
+</ul>
+
+            </details>
+        
+    </li>
+    
+    <li>
+        
+            
+            <details >
+                <summary class="">
+                    <a href="../../magic-system/core-mechanics/" class="node-link">
+                        <span class="icon folder"></span>
+                        <span class="node-name">Core Mechanics</span>
+                        <span class="node-count">3</span>
+                    </a>
+                </summary>
+                
+<ul class="tree-view">
+    
+    <li>
+        
+            
+            
+            <a href="../../magic-system/core-mechanics/corruption" class="tree-file-link  ">
+                <span class="icon file "></span> The Price of Power: A Study of Magical Corruption
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../../magic-system/core-mechanics/cycles" class="tree-file-link  ">
+                <span class="icon file "></span> Foundational Cycles: The 22 Arcana
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../../magic-system/core-mechanics/milestones-and-progression" class="tree-file-link  ">
+                <span class="icon file "></span> Pathways of Power: A Guide to Milestones &amp; Progression
+            </a>
+        
+    </li>
+    
+</ul>
+
+            </details>
+        
+    </li>
+    
+    <li>
+        
+            
+            <details >
+                <summary class="">
+                    <a href="../../magic-system/paths/" class="node-link">
+                        <span class="icon folder"></span>
+                        <span class="node-name">Paths</span>
+                        <span class="node-count">1</span>
+                    </a>
+                </summary>
+                
+<ul class="tree-view">
+    
+    <li>
+        
+            
+            
+            <a href="../../magic-system/paths/the-22-paths" class="tree-file-link  ">
+                <span class="icon file "></span> The 22 Paths: Arts of Transformation
+            </a>
+        
+    </li>
+    
+</ul>
+
+            </details>
+        
+    </li>
+    
+    <li>
+        
+            
+            <details >
+                <summary class="">
+                    <a href="../../magic-system/sefirot/" class="node-link">
+                        <span class="icon folder"></span>
+                        <span class="node-name">Sefirot</span>
+                        <span class="node-count">10</span>
+                    </a>
+                </summary>
+                
+<ul class="tree-view">
+    
+    <li>
+        
+            
+            
+            <a href="../../magic-system/sefirot/s1-keter" class="tree-file-link  ">
+                <span class="icon file "></span> S1: Keter (The Crown)
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../../magic-system/sefirot/s2-chokmah" class="tree-file-link  ">
+                <span class="icon file "></span> S2: Chokmah (Wisdom)
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../../magic-system/sefirot/s3-binah" class="tree-file-link  ">
+                <span class="icon file "></span> S3: Binah (Understanding)
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../../magic-system/sefirot/s4-chesed" class="tree-file-link  ">
+                <span class="icon file "></span> S4: Chesed (Mercy)
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../../magic-system/sefirot/s5-gevurah" class="tree-file-link  ">
+                <span class="icon file "></span> S5: Gevurah (Severity)
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../../magic-system/sefirot/s6-tiferet" class="tree-file-link  ">
+                <span class="icon file "></span> S6: Tiferet (Beauty)
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../../magic-system/sefirot/s7-netzach" class="tree-file-link  ">
+                <span class="icon file "></span> S7: Netzach (Victory)
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../../magic-system/sefirot/s8-hod" class="tree-file-link  ">
+                <span class="icon file "></span> S8: Hod (Splendor)
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../../magic-system/sefirot/s9-yesod" class="tree-file-link  ">
+                <span class="icon file "></span> S9: Yesod (The Foundation)
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../../magic-system/sefirot/s10-malkuth" class="tree-file-link  ">
+                <span class="icon file "></span> S10: Malkuth (The Kingdom)
+            </a>
+        
+    </li>
+    
+</ul>
+
+            </details>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../../magic-system/glossary" class="tree-file-link  ">
+                <span class="icon file "></span> Glossary
+            </a>
+        
+    </li>
+    
+</ul>
+
+            </details>
+        
+    </li>
+    
+    <li>
+        
+            
+            <details open>
+                <summary class="active">
+                    <a href="../" class="node-link">
+                        <span class="icon folder"></span>
+                        <span class="node-name">World Lore</span>
+                        <span class="node-count">28</span>
+                    </a>
+                </summary>
+                
+<ul class="tree-view">
+    
+    <li>
+        
+            
+            <details open>
+                <summary class="active">
+                    <a href="./" class="node-link">
+                        <span class="icon folder"></span>
+                        <span class="node-name">Cosmology</span>
+                        <span class="node-count">5</span>
+                    </a>
+                </summary>
+                
+<ul class="tree-view">
+    
+    <li>
+        
+            
+            
+            <a href="daat-the-abyss" class="tree-file-link  ">
+                <span class="icon file "></span> Da&#39;at: The Abyss
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="overview" class="tree-file-link  ">
+                <span class="icon file "></span> The Cosmic Framework: Divine, Abyssal, and Parasitic Realms
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="qliphothic-avatars" class="tree-file-link  ">
+                <span class="icon file "></span> Qliphothic Avatars: A Field Guide
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="sefirotic-realms" class="tree-file-link active ">
+                <span class="icon file "></span> The Sefirotic Realms: Worlds Within Worlds
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="the-qliphoth" class="tree-file-link  ">
+                <span class="icon file "></span> The Qliphoth: Husks of Reality
+            </a>
+        
+    </li>
+    
+</ul>
+
+            </details>
+        
+    </li>
+    
+    <li>
+        
+            
+            <details >
+                <summary class="">
+                    <a href="../locations/" class="node-link">
+                        <span class="icon folder"></span>
+                        <span class="node-name">Locations</span>
+                        <span class="node-count">2</span>
+                    </a>
+                </summary>
+                
+<ul class="tree-view">
+    
+    <li>
+        
+            
+            
+            <a href="../locations/guilds-and-professions" class="tree-file-link  ">
+                <span class="icon file "></span> Guilds and Professions of Nexus
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../locations/nexus-the-city-of-glass" class="tree-file-link  ">
+                <span class="icon file "></span> Nexus: The City of Glass
+            </a>
+        
+    </li>
+    
+</ul>
+
+            </details>
+        
+    </li>
+    
+    <li>
+        
+            
+            <details >
+                <summary class="">
+                    <a href="../people/" class="node-link">
+                        <span class="icon folder"></span>
+                        <span class="node-name">People</span>
+                        <span class="node-count">1</span>
+                    </a>
+                </summary>
+                
+<ul class="tree-view">
+    
+    <li>
+        
+            
+            
+            <a href="../people/key-figures-of-nexus" class="tree-file-link  ">
+                <span class="icon file "></span> Key Figures of Nexus
+            </a>
+        
+    </li>
+    
+</ul>
+
+            </details>
+        
+    </li>
+    
+    <li>
+        
+            
+            <details >
+                <summary class="">
+                    <a href="../qliphoth/" class="node-link">
+                        <span class="icon folder"></span>
+                        <span class="node-name">Qliphoth</span>
+                        <span class="node-count">10</span>
+                    </a>
+                </summary>
+                
+<ul class="tree-view">
+    
+    <li>
+        
+            
+            
+            <a href="../qliphoth/1-thaumiel" class="tree-file-link  ">
+                <span class="icon file "></span> 1. Thaumiel (The Twins of God)
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../qliphoth/2-ghagiel" class="tree-file-link  ">
+                <span class="icon file "></span> 2. Ghagiel (The Hinderers)
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../qliphoth/3-satariel" class="tree-file-link  ">
+                <span class="icon file "></span> 3. Satariel (The Concealers)
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../qliphoth/4-ghaagsheblah" class="tree-file-link  ">
+                <span class="icon file "></span> 4. Gha&#39;agsheblah (The Smothering Ones)
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../qliphoth/5-golachab" class="tree-file-link  ">
+                <span class="icon file "></span> 5. Golachab (The Burners with Fire)
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../qliphoth/6-thagirion" class="tree-file-link  ">
+                <span class="icon file "></span> 6. Thagirion (The Disputers)
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../qliphoth/7-aarab-zaraq" class="tree-file-link  ">
+                <span class="icon file "></span> 7. A&#39;arab Zaraq (The Ravens of Dispersion)
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../qliphoth/8-samael" class="tree-file-link  ">
+                <span class="icon file "></span> 8. Samael (The Poison of God)
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../qliphoth/9-gamaliel" class="tree-file-link  ">
+                <span class="icon file "></span> 9. Gamaliel (The Obscene Ones)
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../qliphoth/10-nahemoth" class="tree-file-link  ">
+                <span class="icon file "></span> 10. Nahemoth (The Whispering Ones)
+            </a>
+        
+    </li>
+    
+</ul>
+
+            </details>
+        
+    </li>
+    
+    <li>
+        
+            
+            <details >
+                <summary class="">
+                    <a href="../realms/" class="node-link">
+                        <span class="icon folder"></span>
+                        <span class="node-name">Realms</span>
+                        <span class="node-count">10</span>
+                    </a>
+                </summary>
+                
+<ul class="tree-view">
+    
+    <li>
+        
+            
+            
+            <a href="../realms/s1-keter" class="tree-file-link  ">
+                <span class="icon file "></span> The Silent Throne (Realm of Keter)
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../realms/s2-chokmah" class="tree-file-link  ">
+                <span class="icon file "></span> The Unwritten Library (Realm of Chokmah)
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../realms/s3-binah" class="tree-file-link  ">
+                <span class="icon file "></span> The Clockwork Inevitable (Realm of Binah)
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../realms/s4-chesed" class="tree-file-link  ">
+                <span class="icon file "></span> The Boundless Garden (Realm of Chesed)
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../realms/s5-gevurah" class="tree-file-link  ">
+                <span class="icon file "></span> The Crucible of Judgement (Realm of Gevurah)
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../realms/s6-tiferet" class="tree-file-link  ">
+                <span class="icon file "></span> The Resplendent Heart (Realm of Tiferet)
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../realms/s7-netzach" class="tree-file-link  ">
+                <span class="icon file "></span> The Endless Dawn (Realm of Netzach)
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../realms/s8-hod" class="tree-file-link  ">
+                <span class="icon file "></span> The Crystal Web (Realm of Hod)
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../realms/s9-yesod" class="tree-file-link  ">
+                <span class="icon file "></span> The Lunar Sea (Realm of Yesod)
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../realms/s10-malkuth" class="tree-file-link  ">
+                <span class="icon file "></span> The Perfected Earth (Realm of Malkuth)
+            </a>
+        
+    </li>
+    
+</ul>
+
+            </details>
+        
+    </li>
+    
+</ul>
+
+            </details>
+        
+    </li>
+    
+    <li>
+        
+            
+            <details >
+                <summary class="">
+                    <a href="../../meta/" class="node-link">
+                        <span class="icon folder"></span>
+                        <span class="node-name">Meta</span>
+                        <span class="node-count">8</span>
+                    </a>
+                </summary>
+                
+<ul class="tree-view">
+    
+    <li>
+        
+            
+            
+            <a href="../../meta/bad-links-report" class="tree-file-link  meta-file">
+                <span class="icon file meta-icon"></span> Bad Links Report
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../../meta/changelog" class="tree-file-link  meta-file">
+                <span class="icon file meta-icon"></span> K10 Changelog
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../../meta/contributor-roles" class="tree-file-link  meta-file">
+                <span class="icon file meta-icon"></span> A Guide to Contributor Roles
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../../meta/development-plan" class="tree-file-link  meta-file">
+                <span class="icon file meta-icon"></span> K10 Development Plan
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../../meta/directory" class="tree-file-link  meta-file">
+                <span class="icon file meta-icon"></span> Project Directory
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../../meta/playtest-feedback" class="tree-file-link  meta-file">
+                <span class="icon file meta-icon"></span> Playtest Feedback
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../../meta/reports" class="tree-file-link  meta-file">
+                <span class="icon file meta-icon"></span> Page Problem Reports
+            </a>
+        
+    </li>
+    
+    <li>
+        
+            
+            
+            <a href="../../meta/style-guide" class="tree-file-link  meta-file">
+                <span class="icon file meta-icon"></span> K10 Writing Style Guide
+            </a>
+        
+    </li>
+    
+</ul>
+
+            </details>
+        
+    </li>
+    
+</ul>
+
+        
+        
+        <div class="dev-tools" style="margin-top:1.5rem; padding-top:1rem; border-top: 1px solid #444;">
+            <h3>Catalogs</h3>
+            <ul class="tree-view" style="font-size: 0.9em; margin-bottom: 0;">
+                
+                    
+                    
+                    
+                    <li><a href="../../../catalog/factions-and-figures/index.html" class="tree-file-link ">Factions &amp; Figures</a></li>
+                
+                    
+                    
+                    
+                    <li><a href="../../../catalog/lore-and-cosmology/index.html" class="tree-file-link ">Lore &amp; Cosmology</a></li>
+                
+                    
+                    
+                    
+                    <li><a href="../../../catalog/magic-and-power/index.html" class="tree-file-link ">Magic &amp; Power</a></li>
+                
+            </ul>
+        </div>
+        
+        
+        
+    </aside>
+    <div class="page-container">
+        
+        
+        <div class="container">
+            <div class="banner-image" style="background-image: url('../../../static/thumbnails/docs_world-lore_cosmology_sefirotic-realms.svg'); background-color: #5f65b9;"></div>
+            <header class="page-header">
+                <div>
+                    <h1>The Sefirotic Realms: Worlds Within Worlds</h1>
+                    <p class="filepath-subtle">Viewing: docs/world-lore/cosmology/sefirotic-realms.md</p>
+                </div>
+                <div class="actions-bar" style="flex-grow: 1; justify-content: flex-end; align-items: center;">
+                    
+                </div>
+            </header>
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                    
+                        
+                            <li class="breadcrumb-item"><a href="/">Home</a></li>
+                        
+                    
+                        
+                            <li class="breadcrumb-item"><a href="/w/world-lore/">World Lore</a></li>
+                        
+                    
+                        
+                            <li class="breadcrumb-item"><a href="/w/world-lore/cosmology/">Cosmology</a></li>
+                        
+                    
+                        
+                            <li class="breadcrumb-item active" aria-current="page">The Sefirotic Realms: Worlds Within Worlds</li>
+                        
+                    
+                </ol>
+            </nav>
+            <main class="content-body">
+                
+                <aside class="toc-container">
+                    <h3>On this page</h3>
+                    <div class="toc">
+                        <div class="toc">
+<ul>
+<li><a href="#the-sefirotic-realms-worlds-within-worlds">The Sefirotic Realms: Worlds Within Worlds</a><ul>
+<li><a href="#metaphysical-cartography-a-forbidden-inquiry">Metaphysical cartography, a forbidden inquiry</a></li>
+<li><a href="#the-nature-of-a-realm">The nature of a realm</a></li>
+<li><a href="#accessing-the-realms">Accessing the realms</a></li>
+<li><a href="#progenitorship-the-apex-of-power">Progenitorship: The Apex of Power</a><ul>
+<li><a href="#the-war-in-heaven">The war in heaven</a></li>
+</ul>
+</li>
+<li><a href="#the-ten-realms">The Ten Realms</a></li>
+<li><a href="#the-exception-the-abyss">The exception: the Abyss</a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+                    </div>
+                </aside>
+                
+                <h1 id="the-sefirotic-realms-worlds-within-worlds">The Sefirotic Realms: Worlds Within Worlds</h1>
+<h3 id="metaphysical-cartography-a-forbidden-inquiry"><em>Metaphysical cartography, a forbidden inquiry</em></h3>
+<p><strong>Compiler's Warning:</strong> <em>The existence of the Sefirotic Realms is not a subject for casual study. The <a href="/w/getting-started/the-three-pillars-overview">Adamant Concord</a> views unauthorized exploration as a threat to cosmic stability. The <a href="/w/getting-started/the-three-pillars-overview">Flowing Garden</a> warns that these realms are wildernesses from which one may never return. The <a href="/w/getting-started/the-three-pillars-overview">Way of the Middle Pillar</a> teaches that one must perfect the inner world before daring to step into the outer. Proceed with caution.</em></p>
+<hr />
+<h2 id="the-nature-of-a-realm">The nature of a realm</h2>
+<p>A <a href="/w/magic-system/glossary#sefirah-pl-sefirot">Sefirah</a> is more than just a conceptual filter for divine energy; it is a metaphysical reality, an archetypal plane of existence where its core concept reigns absolute. These "Sefirotic Realms" are not distant planets, but worlds layered over our own, accessible only to those whose souls resonate perfectly with their frequency.</p>
+<p>While <a href="/w/magic-system/sefirot/s10-malkuth">Malkuth's</a> Realm <em>is</em> the physical reality we inhabit, the others exist as potent, self-contained universes of thought, energy, and form. To enter one is to step into a world where a single idea—Severity, Mercy, Splendor—is the fundamental law of physics.</p>
+<h2 id="accessing-the-realms">Accessing the realms</h2>
+<p>Access to a Sefirotic Realm is not achieved through physical travel, but through spiritual mastery. It is a direct consequence of a mage's progression along a magical <a href="/w/magic-system/glossary#pathway-s1-s10">Pathway</a>.</p>
+<ul>
+<li>
+<p><strong>Tier 3: Dominance:</strong> At this <a href="/w/magic-system/core-mechanics/milestones-and-progression">Milestone</a>, a mage can "peer" into their attuned Realm. They can open temporary windows to draw upon its purer, more potent energies, or to receive inspiration for their craft. A <a href="/w/magic-system/sefirot/s3-binah">Binah</a> mage might glimpse the perfect geometry of the Clockwork Inevitable to design a flawless ward.</p>
+</li>
+<li>
+<p><strong>Tier 4: Ascension:</strong> An Ascended mage transcends mere observation. They can project their consciousness—or in some cases, their physical form—into their Sefirah's Realm. Here, they can carve out a personal <strong>Domain</strong>, a permanent sanctuary and workshop where their power is absolute.</p>
+</li>
+</ul>
+<h2 id="progenitorship-the-apex-of-power">Progenitorship: The Apex of Power</h2>
+<p>The creation of a Domain is the gateway to <strong>Progenitorship</strong>, the ultimate expression of magical power. Within their Domain, an Ascended mage can act as a minor god, shaping the very fabric of their Realm's reality. This allows them to cultivate a unique environment based on their Sefirah's principles, complete with a unique "tech tree," "biosystem," and even sentient inhabitants.</p>
+<p>These Domains function as the ultimate expression of the mage's chosen path, a living embodiment of their philosophy.</p>
+<h3 id="the-war-in-heaven">The war in heaven</h3>
+<p>The act of creation within a Sefirotic Realm is not without peril. The existence of the Qliphothic Realms is not a separate, distant threat, but a constant, invasive pressure. Each Sefirotic Realm is "shadowed" by its corresponding Qliphothic anti-world, which acts as a parasitic cancer upon it.</p>
+<p>A Progenitor's Domain is a bastion of order carved out of the realm's raw potential, but it is also a fortress on the front line of a silent, eternal war against conceptual cancer. For a strategic assessment of the military forces these Progenitors can command, see the guide on <strong><a href="/w/factions-at-war/progenitor-factions">Progenitor Factions</a></strong>.</p>
+<ul>
+<li><strong>Binah's</strong> Clockwork Inevitable must fend off incursions of <a href="/w/world-lore/qliphoth/3-satariel"><strong>Satariel's</strong></a> hopelessness, which manifest as logic-plagues that cause its golems to seize up in despair.</li>
+<li><strong>Chesed's</strong> Boundless Garden is besieged by the cancerous growth of <a href="/w/world-lore/qliphoth/4-ghaagsheblah"><strong>Gha'agsheblah</strong></a>, which seeks to turn its symbiotic ecosystems into a parasitic monoculture.</li>
+<li><strong>Tiferet's</strong> Resplendent Heart is assaulted by the shrieking self-hatred of <a href="/w/world-lore/qliphoth/6-thagirion"><strong>Thagirion</strong></a>, which attempts to shatter its harmony into violent discord.</li>
+</ul>
+<p>To become a Progenitor is not to retire to a private paradise, but to become a general-god in a war for the soul of reality itself.</p>
+<hr />
+<figure style="text-align: center; margin: 1em 0;">
+    <figcaption style="font-style: italic; color: #888;">[Placeholder Image: The Lunar Sea, an ocean of liquid twilight under a sky of multiple shifting moons. An island of solidified dream-stuff, resembling a floating, surreal castle, sits on the horizon.]</figcaption>
+</figure>
+
+<h2 id="the-ten-realms">The Ten Realms</h2>
+<table>
+<thead>
+<tr>
+<th>Sefirah</th>
+<th>Realm Name</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>S1</td>
+<td><a href="/w/world-lore/realms/s1-keter">The Silent Throne</a></td>
+<td>A singularity of pure potential at the precipice of all creation.</td>
+</tr>
+<tr>
+<td>S2</td>
+<td><a href="/w/world-lore/realms/s2-chokmah">The Unwritten Library</a></td>
+<td>An infinite library where shelves of starlight hold shimmering, unwritten timelines.</td>
+</tr>
+<tr>
+<td>S3</td>
+<td><a href="/w/world-lore/realms/s3-binah">The Clockwork Inevitable</a></td>
+<td>A realm of stark, brutalist geometry of obsidian and brass, constantly reconfiguring itself.</td>
+</tr>
+<tr>
+<td>S4</td>
+<td><a href="/w/world-lore/realms/s4-chesed">The Boundless Garden</a></td>
+<td>A hyper-fertile, Edenic jungle of impossible colors and continent-sized trees.</td>
+</tr>
+<tr>
+<td>S5</td>
+<td><a href="/w/world-lore/realms/s5-gevurah">The Crucible of Judgment</a></td>
+<td>A volcanic wasteland of black iron under a permanent crimson twilight, littered with failures.</td>
+</tr>
+<tr>
+<td>S6</td>
+<td><a href="/w/world-lore/realms/s6-tiferet">The Resplendent Heart</a></td>
+<td>A serene landscape of flowing golden light, floating crystals, and perfect symmetry.</td>
+</tr>
+<tr>
+<td>S7</td>
+<td><a href="/w/world-lore/realms/s7-netzach">The Endless Dawn</a></td>
+<td>A vast, untamed wilderness of vibrant plains under a perpetual, glorious dawn or dusk.</td>
+</tr>
+<tr>
+<td>S8</td>
+<td><a href="/w/world-lore/realms/s8-hod">The Crystal Web</a></td>
+<td>A city of pure information, made of crystalline structures and holographic architecture.</td>
+</tr>
+<tr>
+<td>S9</td>
+<td><a href="/w/world-lore/realms/s9-yesod">The Lunar Sea</a></td>
+<td>An ocean of liquid twilight under shifting moons, with islands of solidified dream-stuff.</td>
+</tr>
+<tr>
+<td>S10</td>
+<td><a href="/w/world-lore/realms/s10-malkuth">The Perfected Earth</a></td>
+<td>The physical world, but idealized and under the absolute command of its Progenitor.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="the-exception-the-abyss">The exception: the Abyss</h2>
+<p><strong><a href="/w/world-lore/cosmology/daat-the-abyss">Da'at</a></strong>, being a void and not a true Sefirah, possesses no Sefirotic Realm. There is no world of Un-knowing to explore, only an abyss to fall into. To seek a "Domain" in Da'at is to seek one's own erasure.</p>
+            </main>
+
+            
+
+            <footer class="page-nav">
+                
+                <a href="qliphothic-avatars" class="nav-link prev">
+                    <span class="nav-arrow">&larr;</span>
+                    <span class="nav-text">
+                        <span class="nav-label">Previous</span>
+                        <span class="nav-title">Qliphothic Avatars: A Field Guide</span>
+                    </span>
+                </a>
+                
+                
+                <a href="the-qliphoth" class="nav-link next">
+                    <span class="nav-text">
+                        <span class="nav-label">Next</span>
+                        <span class="nav-title">The Qliphoth: Husks of Reality</span>
+                    </span>
+                    <span class="nav-arrow">&rarr;</span>
+                </a>
+                
+            </footer>
+        </div>
+    <button onclick="scrollToTop()" id="toTopBtn" title="Go to top">↑</button>
+
+    </div>
+    
+    <script>
+        const toTopBtn = document.getElementById("toTopBtn");
+        window.onscroll = function() {
+            if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
+                toTopBtn.style.display = "block";
+            } else {
+                toTopBtn.style.display = "none";
+            }
+        };
+        function scrollToTop() {
+            document.body.scrollTop = 0; // For Safari
+            document.documentElement.scrollTop = 0; // For Chrome, Firefox, etc.
+        }
+
+        // Handle anchor links on page load for smooth scrolling
+        document.addEventListener("DOMContentLoaded", function() {
+            // The timeout is a hack to ensure the browser has time to potentially
+            // jump to the anchor first, before we smooth-scroll.
+            setTimeout(function() {
+                if (window.location.hash) {
+                    try {
+                        var element = document.querySelector(decodeURIComponent(window.location.hash));
+                        if (element) {
+                            element.scrollIntoView({ behavior: 'smooth' });
+                        }
+                    } catch (e) {
+                        console.error("Could not scroll to anchor: ", e);
+                    }
+                }
+            }, 100);
+        });
+
+        // In-page search functionality
+        
+    </script>
+
+</body>
+</html>

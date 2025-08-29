@@ -1,0 +1,8 @@
+<svg width="250" height="150" xmlns="http://www.w3.org/2000/svg">
+    <rect width="100%" height="100%" fill="#f00e9d" />
+    <g opacity="0.7">
+        <g transform="translate(77, 27) scale(4)">
+            <path fill="#000000" d="M12 2C9.79 2 8 3.79 8 6V8H6V10H8V22H10V18H14V22H16V10H18V8H16V6C16 3.79 14.21 2 12 2M12 4C13.1 4 14 4.9 14 6V8H10V6C10 4.9 10.9 4 12 4M4.5 10.5L2 12L4.5 13.5L6 15L7.5 13.5L10 12L7.5 10.5L6 9L4.5 10.5M19.5 10.5L18 9L16.5 10.5L14 12L16.5 13.5L18 15L19.5 13.5L22 12L19.5 10.5Z" />
+        </g>
+    </g>
+</svg>

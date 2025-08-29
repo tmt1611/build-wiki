@@ -1,0 +1,50 @@
+<svg viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+    <rect width="100%" height="100%" fill="#121212" />
+    <defs>
+        <filter id="puzzle_glow" x="-50%" y="-50%" width="200%" height="200%">
+            <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+            <feMerge>
+                <feMergeNode in="coloredBlur"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+        <linearGradient id="faceGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" style="stop-color:#282828;stop-opacity:1" />
+            <stop offset="100%" style="stop-color:#333;stop-opacity:1" />
+        </linearGradient>
+    </defs>
+    
+    <g transform="translate(150, 150)">
+        <!-- Isometric cube points -->
+        <!-- Center (0,0) -->
+        <!-- Top Face -->
+        <path d="M 0 -80 L 70 -40 L 0 0 L -70 -40 Z" fill="url(#faceGradient)" stroke="#A0AEC0" stroke-width="1.5" />
+        <!-- Left Face -->
+        <path d="M -70 -40 L -70 60 L 0 100 L 0 0 Z" fill="url(#faceGradient)" stroke="#A0AEC0" stroke-width="1.5" />
+        <!-- Right Face -->
+        <path d="M 70 -40 L 70 60 L 0 100 L 0 0 Z" fill="url(#faceGradient)" stroke="#A0AEC0" stroke-width="1.5" />
+        
+        <!-- Top Face Details -->
+        <g>
+            <circle cx="0" cy="-40" r="20" fill="none" stroke="#A0AEC0" stroke-width="1" />
+            <path d="M 0 -40 l 17.3 -10 M 0 -40 l -17.3 -10 M 0 -40 l 0 20 M 0 -40 l 17.3 10 M 0 -40 l -17.3 10 M 0 -40 l 0 -20" stroke="#A0AEC0" stroke-width="0.5" />
+            <circle cx="0" cy="-40" r="3" fill="#FBBF24" filter="url(#puzzle_glow)" />
+        </g>
+        
+        <!-- Left Face Details (circuitry) -->
+        <g>
+            <path d="M -60 -20 L -40 -20 L -30 -10 L -30 40 L -40 50" fill="none" stroke="#FBBF24" stroke-width="1" />
+            <circle cx="-60" cy="-20" r="2" fill="#FBBF24" />
+            <circle cx="-40" cy="50" r="2" fill="#FBBF24" />
+            <path d="M -20 0 L -20 20 L -50 20" fill="none" stroke="#A0AEC0" stroke-width="0.5" />
+        </g>
+        
+        <!-- Right Face Details (glyphs) -->
+        <g>
+            <path d="M 35 -10 L 35 10 L 55 10" fill="none" stroke="#FBBF24" stroke-width="1" />
+            <path d="M 35 30 L 55 30 L 55 50 L 35 50" fill="none" stroke="#FBBF24" stroke-width="1" />
+            <circle cx="55" cy="10" r="1.5" fill="#FBBF24" />
+            <circle cx="35" cy="50" r="1.5" fill="#FBBF24" />
+        </g>
+    </g>
+</svg>

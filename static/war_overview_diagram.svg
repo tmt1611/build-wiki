@@ -1,0 +1,40 @@
+<svg viewBox="0 0 500 300" xmlns="http://www.w3.org/2000/svg">
+    <rect width="100%" height="100%" fill="#2d3436" />
+    <defs>
+        <filter id="symbol_glow">
+            <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+            <feMerge>
+                <feMergeNode in="coloredBlur"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+        <!-- Concord Shield -->
+        <g id="concord-shield">
+            <path d="M12,1L3,5V11C3,16.55 6.84,21.74 12,23C17.16,21.74 21,16.55 21,11V5L12,1Z" />
+        </g>
+        <!-- Garden Heart/Leaf -->
+        <g id="garden-leaf">
+            <path d="M12,6C9,6 7,8 7,11C7,14 12,18 12,18C12,18 17,14 17,11C17,8 15,6 12,6Z"/>
+        </g>
+        <!-- Pillar Dagger -->
+        <g id="pillar-dagger">
+            <path d="M9,3L12,6L15,3H17L12,8L7,3H9M9,10V21H15V10H9Z"/>
+        </g>
+    </defs>
+
+    <!-- Faction Symbols -->
+    <g transform="translate(80, 75) scale(5)" fill="#4299E1" filter="url(#symbol_glow)">
+        <use href="#concord-shield" />
+    </g>
+    <g transform="translate(300, 85) scale(5)" fill="#48BB78" filter="url(#symbol_glow)">
+        <use href="#garden-leaf" />
+    </g>
+    <g transform="translate(190, 85) scale(5)" fill="#A0AEC0" filter="url(#symbol_glow)">
+        <use href="#pillar-dagger" />
+    </g>
+
+    <!-- Conflict lines -->
+    <line x1="150" y1="150" x2="230" y2="150" stroke="white" stroke-width="2" stroke-dasharray="5 5" />
+    <line x1="270" y1="150" x2="350" y2="150" stroke="white" stroke-width="2" stroke-dasharray="5 5" />
+    <text x="250" y="250" fill="#FFF" font-size="20" text-anchor="middle" font-family="serif" font-style="italic">The War of the Shifting Throne</text>
+</svg>

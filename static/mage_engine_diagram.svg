@@ -1,0 +1,70 @@
+<svg viewBox="0 0 500 750" xmlns="http://www.w3.org/2000/svg">
+<rect x="0" y="0" width="500" height="750" fill="#1a1a1a" />
+<defs>
+  <marker id="arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+    <path d="M 0 0 L 10 5 L 0 10 z" fill="#ff8c00" />
+  </marker>
+</defs>
+<path d="M10 0 V750 M20 0 V750 M30 0 V750 M40 0 V750 M50 0 V750 M60 0 V750 M70 0 V750 M80 0 V750 M90 0 V750 M100 0 V750 M110 0 V750 M120 0 V750 M130 0 V750 M140 0 V750 M150 0 V750 M160 0 V750 M170 0 V750 M180 0 V750 M190 0 V750 M200 0 V750 M210 0 V750 M220 0 V750 M230 0 V750 M240 0 V750 M250 0 V750 M260 0 V750 M270 0 V750 M280 0 V750 M290 0 V750 M300 0 V750 M310 0 V750 M320 0 V750 M330 0 V750 M340 0 V750 M350 0 V750 M360 0 V750 M370 0 V750 M380 0 V750 M390 0 V750 M400 0 V750 M410 0 V750 M420 0 V750 M430 0 V750 M440 0 V750 M450 0 V750 M460 0 V750 M470 0 V750 M480 0 V750 M490 0 V750 M0 10 H500 M0 20 H500 M0 30 H500 M0 40 H500 M0 50 H500 M0 60 H500 M0 70 H500 M0 80 H500 M0 90 H500 M0 100 H500 M0 110 H500 M0 120 H500 M0 130 H500 M0 140 H500 M0 150 H500 M0 160 H500 M0 170 H500 M0 180 H500 M0 190 H500 M0 200 H500 M0 210 H500 M0 220 H500 M0 230 H500 M0 240 H500 M0 250 H500 M0 260 H500 M0 270 H500 M0 280 H500 M0 290 H500 M0 300 H500 M0 310 H500 M0 320 H500 M0 330 H500 M0 340 H500 M0 350 H500 M0 360 H500 M0 370 H500 M0 380 H500 M0 390 H500 M0 400 H500 M0 410 H500 M0 420 H500 M0 430 H500 M0 440 H500 M0 450 H500 M0 460 H500 M0 470 H500 M0 480 H500 M0 490 H500 M0 500 H500 M0 510 H500 M0 520 H500 M0 530 H500 M0 540 H500 M0 550 H500 M0 560 H500 M0 570 H500 M0 580 H500 M0 590 H500 M0 600 H500 M0 610 H500 M0 620 H500 M0 630 H500 M0 640 H500 M0 650 H500 M0 660 H500 M0 670 H500 M0 680 H500 M0 690 H500 M0 700 H500 M0 710 H500 M0 720 H500 M0 730 H500 M0 740 H500" stroke="#333" stroke-width="0.5"/>
+<path d="M100,20 L400,20 L450,70 L450,680 L400,730 L100,730 L50,680 L50,70 L100,20 Z" fill="none" stroke="#666" stroke-width="2"/>
+<g id="gears" opacity="0.3">
+<path d="M250,370 A30,30 0 0 1 250,430 A30,30 0 0 1 250,370 M250,360 L250,440 M220,400 H280 M230,370 L270,430 M230,430 L270,370" stroke="#444" stroke-width="10" />
+<path d="M250,580 A20,20 0 0 1 250,620 A20,20 0 0 1 250,580 M250,575 L250,625 M230,600 H270 M235,585 L265,615 M235,615 L265,585" stroke="#444" stroke-width="8" />
+</g>
+<g id="paths">
+<line x1="250" y1="50" x2="150" y2="150" stroke="#666" stroke-width="1" stroke-dasharray="4 2" />
+<line x1="250" y1="50" x2="350" y2="150" stroke="#666" stroke-width="1" stroke-dasharray="4 2" />
+<line x1="250" y1="50" x2="250" y2="400" stroke="#666" stroke-width="1" stroke-dasharray="4 2" />
+<line x1="150" y1="150" x2="350" y2="150" stroke="#666" stroke-width="1" stroke-dasharray="4 2" />
+<line x1="150" y1="150" x2="150" y2="300" stroke="#666" stroke-width="1" stroke-dasharray="4 2" />
+<line x1="150" y1="150" x2="250" y2="400" stroke="#666" stroke-width="1" stroke-dasharray="4 2" />
+<line x1="350" y1="150" x2="350" y2="300" stroke="#666" stroke-width="1" stroke-dasharray="4 2" />
+<line x1="350" y1="150" x2="250" y2="400" stroke="#666" stroke-width="1" stroke-dasharray="4 2" />
+<line x1="150" y1="300" x2="350" y2="300" stroke="#666" stroke-width="1" stroke-dasharray="4 2" />
+<line x1="150" y1="300" x2="250" y2="400" stroke="#666" stroke-width="1" stroke-dasharray="4 2" />
+<line x1="150" y1="300" x2="150" y2="500" stroke="#666" stroke-width="1" stroke-dasharray="4 2" />
+<line x1="350" y1="300" x2="250" y2="400" stroke="#666" stroke-width="1" stroke-dasharray="4 2" />
+<line x1="350" y1="300" x2="350" y2="500" stroke="#666" stroke-width="1" stroke-dasharray="4 2" />
+<line x1="250" y1="400" x2="150" y2="500" stroke="#666" stroke-width="1" stroke-dasharray="4 2" />
+<line x1="250" y1="400" x2="350" y2="500" stroke="#666" stroke-width="1" stroke-dasharray="4 2" />
+<line x1="250" y1="400" x2="250" y2="600" stroke="#666" stroke-width="1" stroke-dasharray="4 2" />
+<line x1="150" y1="500" x2="350" y2="500" stroke="#666" stroke-width="1" stroke-dasharray="4 2" />
+<line x1="150" y1="500" x2="250" y2="600" stroke="#666" stroke-width="1" stroke-dasharray="4 2" />
+<line x1="350" y1="500" x2="250" y2="600" stroke="#666" stroke-width="1" stroke-dasharray="4 2" />
+<line x1="250" y1="600" x2="250" y2="700" stroke="#666" stroke-width="1" stroke-dasharray="4 2" />
+</g>
+<g id="flow" stroke="#ff8c00" stroke-width="2.5" fill="none" marker-end="url(#arrow)">
+<path d="M250,20 V50" />
+<path d="M250,50 C200,80 160,120 150,150" />
+<path d="M250,50 C300,80 340,120 350,150" />
+<path d="M150,150 V300" />
+<path d="M350,150 V300" />
+<path d="M150,300 C180,350 220,380 250,400" />
+<path d="M350,300 C320,350 280,380 250,400" />
+<path d="M250,400 V600" />
+<path d="M250,600 V700" />
+<path d="M250,700 V730" />
+</g>
+<g id="sefirot">
+<rect x="205" y="35" width="90" height="30" fill="#1a1a1a" stroke="#FFFFFF" stroke-width="1"/>
+<text x="250" y="55" font-family="monospace" font-size="10" fill="#bbb" text-anchor="middle">KETER (Input)</text>
+<rect x="105" y="135" width="90" height="30" fill="#1a1a1a" stroke="#C0C0C0" stroke-width="1"/>
+<text x="150" y="155" font-family="monospace" font-size="10" fill="#bbb" text-anchor="middle">CHOKMAH (Ignition)</text>
+<rect x="305" y="135" width="90" height="30" fill="#1a1a1a" stroke="#202020" stroke-width="1"/>
+<text x="350" y="155" font-family="monospace" font-size="10" fill="#bbb" text-anchor="middle">BINAH (Regulator)</text>
+<rect x="105" y="285" width="90" height="30" fill="#1a1a1a" stroke="#FFD700" stroke-width="1"/>
+<text x="150" y="305" font-family="monospace" font-size="10" fill="#bbb" text-anchor="middle">CHESED (A. Fuel)</text>
+<rect x="305" y="285" width="90" height="30" fill="#1a1a1a" stroke="#DC143C" stroke-width="1"/>
+<text x="350" y="305" font-family="monospace" font-size="10" fill="#bbb" text-anchor="middle">GEVURAH (P. Coolant)</text>
+<rect x="205" y="385" width="90" height="30" fill="#1a1a1a" stroke="#FFDF00" stroke-width="1"/>
+<text x="250" y="405" font-family="monospace" font-size="10" fill="#bbb" text-anchor="middle">TIFERET (Core)</text>
+<rect x="105" y="485" width="90" height="30" fill="#1a1a1a" stroke="#CD7F32" stroke-width="1"/>
+<text x="150" y="505" font-family="monospace" font-size="10" fill="#bbb" text-anchor="middle">NETZACH (Flywheel)</text>
+<rect x="305" y="485" width="90" height="30" fill="#1a1a1a" stroke="#FFA500" stroke-width="1"/>
+<text x="350" y="505" font-family="monospace" font-size="10" fill="#bbb" text-anchor="middle">HOD (Catalyst)</text>
+<rect x="205" y="585" width="90" height="30" fill="#1a1a1a" stroke="#8A2BE2" stroke-width="1"/>
+<text x="250" y="605" font-family="monospace" font-size="10" fill="#bbb" text-anchor="middle">YESOD (Filter)</text>
+<rect x="205" y="685" width="90" height="30" fill="#1a1a1a" stroke="#8B4513" stroke-width="1"/>
+<text x="250" y="705" font-family="monospace" font-size="10" fill="#bbb" text-anchor="middle">MALKUTH (Output)</text>
+</g>
+</svg>

@@ -1,0 +1,51 @@
+<svg viewBox="0 0 600 300" xmlns="http://www.w3.org/2000/svg">
+    <rect width="100%" height="100%" fill="#f7fafc" />
+    <defs>
+        <g id="concord-shield">
+            <path d="M12,1L3,5V11C3,16.55 6.84,21.74 12,23C17.16,21.74 21,16.55 21,11V5L12,1Z" />
+        </g>
+        <g id="garden-leaf">
+            <path d="M12,6C9,6 7,8 7,11C7,14 12,18 12,18C12,18 17,14 17,11C17,8 15,6 12,6Z"/>
+        </g>
+        <g id="pillar-dagger">
+            <path d="M9,3L12,6L15,3H17L12,8L7,3H9M9,10V21H15V10H9Z"/>
+        </g>
+        <style>
+            .title { font-family: sans-serif; font-size: 18px; font-weight: bold; text-anchor: middle; }
+            .subtitle { font-family: sans-serif; font-size: 14px; text-anchor: middle; fill: #2d3748; }
+            .desc { font-family: sans-serif; font-size: 12px; text-anchor: middle; fill: #4a5568; }
+        </style>
+    </defs>
+
+    <!-- Column 1: Concord -->
+    <g transform="translate(100, 80)">
+        <use href="#concord-shield" transform="translate(-36, -70) scale(3)" fill="#4299E1" />
+        <text y="0" class="title" fill="#4299E1">Adamant Concord</text>
+        <text y="25" class="subtitle">ORDER</text>
+        <text y="50" class="desc">Logic, Structure, Perfection</text>
+        <text y="65" class="desc">Unbreakable defense</text>
+    </g>
+    
+    <!-- Column 2: Pillar -->
+    <g transform="translate(300, 80)">
+        <use href="#pillar-dagger" transform="translate(-36, -70) scale(3)" fill="#718096" />
+        <text y="0" class="title" fill="#718096">Middle Pillar</text>
+        <text y="25" class="subtitle">BALANCE</text>
+        <text y="50" class="desc">Harmony, Synthesis, Self</text>
+        <text y="65" class="desc">Surgical precision</text>
+    </g>
+
+    <!-- Column 3: Garden -->
+    <g transform="translate(500, 80)">
+        <use href="#garden-leaf" transform="translate(-36, -70) scale(3)" fill="#48BB78" />
+        <text y="0" class="title" fill="#48BB78">Flowing Garden</text>
+        <text y="25" class="subtitle">CHAOS</text>
+        <text y="50" class="desc">Life, Adaptation, Passion</text>
+        <text y="65" class="desc">Overwhelming growth</text>
+    </g>
+
+    <!-- Separators -->
+    <line x1="200" y1="50" x2="200" y2="200" stroke="#e2e8f0" stroke-width="1" />
+    <line x1="400" y1="50" x2="400" y2="200" stroke="#e2e8f0" stroke-width="1" />
+
+</svg>
