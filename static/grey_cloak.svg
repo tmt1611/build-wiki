@@ -1,0 +1,14 @@
+<svg viewBox="0 0 300 400" xmlns="http://www.w3.org/2000/svg">
+    <rect width="100%" height="100%" fill="#2d3436" />
+    <!-- Mannequin Stand -->
+    <path d="M 150 380 L 120 400 H 180 Z" fill="#A0AEC0" opacity="0.5" />
+    <rect x="145" y="100" width="10" height="280" fill="#A0AEC0" opacity="0.5" />
+    <rect x="120" y="80" width="60" height="20" rx="5" fill="#A0AEC0" opacity="0.5" />
+    
+    <!-- Cloak -->
+    <path d="M 150 50 C 120 50, 90 80, 90 110 L 70 350 H 230 L 210 110 C 210 80, 180 50, 150 50 Z" fill="#718096" stroke="#A0AEC0" stroke-width="1.5"/>
+    <!-- Hood -->
+    <path d="M 150 50 C 130 30, 110 40, 110 60 C 110 80, 130 90, 150 90 C 170 90, 190 80, 190 60 C 190 40, 170 30, 150 50 Z" fill="#5A6573" />
+    <!-- Metallic Threads -->
+    <path d="M 90 120 Q 150 130, 210 120 M 85 160 Q 150 150, 215 160 M 80 200 Q 150 210, 220 200 M 75 240 Q 150 230, 225 240 M 70 280 Q 150 290, 230 280" fill="none" stroke="#A0AEC0" stroke-width="0.5" opacity="0.7"/>
+</svg>
